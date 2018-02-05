@@ -22,6 +22,8 @@ casper.thenOpen('http://localhost:3000/train', function(result) {
 
   // dog type examples
   casper.waitForSelector('div._examples[data-kind="dogs"]', function() {
+    console.log(JSON.stringify(this.getElementInfo('div._examples[data-kind="dogs"]')))
+
     casper.then(function() {
       this.click('img[data-name="goldenretriever"]');
     });
