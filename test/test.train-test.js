@@ -21,7 +21,7 @@ casper.thenOpen('http://localhost:3000/train', function(result) {
   });
 
   // dog type examples
-  casper.waitForSelector('div._examples[data-kind="dogs"] showing', function() {
+  casper.waitForSelector('._examples showing', function() {
     console.log(JSON.stringify(this.getElementInfo('div._examples[data-kind="dogs"]')))
     console.log(JSON.stringify(this.getElementsInfo('div._examples showing')))
 
