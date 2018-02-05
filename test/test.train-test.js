@@ -38,6 +38,10 @@ casper.thenOpen('http://localhost:3000/train', function(result) {
     this.test.assertVisible('button._examples--class__selected[data-name="goldenretriever"]')
   });
   casper.then(function() {
+    this.test.assertSelectorHasText('button._positive[data-name="goldenretriever"]', 'Select')
+    this.test.assertSelectorHasText('button._positive[data-name="goldenretriever"]', 'Deselect')
+  })
+  casper.then(function() {
     this.click('button._positive[data-name="husky"]');
     this.test.assertSelectorHasText('button._positive[data-name="husky"]', 'Deselect')
   });
@@ -47,7 +51,6 @@ casper.thenOpen('http://localhost:3000/train', function(result) {
   });
   // TRAAAAIIIIIN!
   casper.then(function() {
-    this.test.assertSelectorHasText('button._positive[data-name="goldenretriever"]', 'Select')
     this.click('button.train--train-button');
   });
 
