@@ -32,7 +32,8 @@ casper.thenOpen('http://localhost:3000/train', function(result) {
 
   // click three of deez
   casper.then(function() {
-    this.click('button._positive[data-name="goldenretriever"]');
+    this.clickLabel('Select', 'button')
+    //this.click('button._positive[data-name="goldenretriever"]');
   });
   casper.then(function() {
     console.log(JSON.stringify(this.getElementInfo('button._positive[data-name="goldenretriever"]')))
