@@ -47,6 +47,7 @@ casper.thenOpen('http://localhost:3000/train', function(result) {
   });
   // TRAAAAIIIIIN!
   casper.then(function() {
+    this.test.assertSelectorHasText('button._positive[data-name="goldenretriever"]', 'Select')
     this.click('button.train--train-button');
   });
 
