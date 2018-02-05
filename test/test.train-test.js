@@ -46,8 +46,9 @@ casper.thenOpen('http://localhost:3000/train', function(result) {
   });
 
   casper.then(function() {
-    casper.waitUntilVisible('.train--loading')
-    casper.test.assertVisible('.train--loading', 'animation displayed during training');
+    casper.waitUntilVisible('.train--loading', function() {
+      casper.test.assertVisible('.train--loading', 'animation displayed during training');
+    })
   });
 
   casper.waitWhileVisible('.train--loading', function() {
