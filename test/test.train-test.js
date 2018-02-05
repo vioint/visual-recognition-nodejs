@@ -21,33 +21,37 @@ casper.thenOpen('http://localhost:3000/train', function(result) {
 
   // dog type examples
   casper.waitForSelector('div._examples[data-kind="dogs"]', function() {
+    casper.then(function() {
+      this.click('img[data-name="goldenretriever"]');
+    });
+
+    // example shots
+    casper.waitForSelector('div._examples--contact-sheet[data-kind="dogs"]', function() {
+    });
+
+    // click three of deez
+    casper.then(function() {
+      this.click('button._positive[data-name="goldenretriever"]');
+    });
+    casper.then(function() {
+      console.log(JSON.stringify(this.getElementInfo('button._positive[data-name="goldenretriever"]')))
+      this.test.assertSelectorHasText('button._positive[data-name="goldenretriever"]', 'Select')
+      this.test.assertSelectorHasText('button._positive[data-name="goldenretriever"]', 'Deselect')
+    })
+    casper.then(function() {
+      this.click('button._positive[data-name="husky"]');
+      this.test.assertSelectorHasText('button._positive[data-name="husky"]', 'Deselect')
+    });
+    casper.then(function() {
+      this.click('button._positive[data-name="dalmatian"]');
+      this.test.assertSelectorHasText('button._positive[data-name="dalmatian"]', 'Deselect')
+    });
   });
 
-  casper.then(function() {
-    this.click('img[data-name="goldenretriever"]');
-  });
 
-  // example shots
-  casper.waitForSelector('div._examples--contact-sheet[data-kind="dogs"]', function() {
-  });
 
-  // click three of deez
-  casper.then(function() {
-    this.click('button._positive[data-name="goldenretriever"]');
-  });
-  casper.then(function() {
-    console.log(JSON.stringify(this.getElementInfo('button._positive[data-name="goldenretriever"]')))
-    this.test.assertSelectorHasText('button._positive[data-name="goldenretriever"]', 'Select')
-    this.test.assertSelectorHasText('button._positive[data-name="goldenretriever"]', 'Deselect')
-  })
-  casper.then(function() {
-    this.click('button._positive[data-name="husky"]');
-    this.test.assertSelectorHasText('button._positive[data-name="husky"]', 'Deselect')
-  });
-  casper.then(function() {
-    this.click('button._positive[data-name="dalmatian"]');
-    this.test.assertSelectorHasText('button._positive[data-name="dalmatian"]', 'Deselect')
-  });
+
+
   // TRAAAAIIIIIN!
   casper.then(function() {
     this.click('button.train--train-button');
