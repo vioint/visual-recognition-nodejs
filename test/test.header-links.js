@@ -17,11 +17,6 @@ casper.thenOpen('http://localhost:3000', function(result) {
 function testHeaderLinks() {
   checkLinkDest(baseHost, 'nav.heading-nav li:nth-child(1) a', /https:\/\/www.ibm.com\/watson\/products-services\//);
   checkLinkDest(baseHost, 'nav.heading-nav li:nth-child(2) a', /https:\/\/console.bluemix.net\/docs\/services\/visual-recognition\/getting-started.html/);
-  checkLinkDest(baseHost, 'nav.heading-nav li:nth-child(3) a', /https:\/\/www.ibm.com\/watson\/developercloud\/starter-kits.html/);
-  checkLinkDest(baseHost, 'nav.heading-nav li:nth-child(4) a', /https:\/\/developer.ibm.com\/watson/);
-  checkLinkDest(baseHost, 'div.banner--service-links li:nth-child(1) a', /https:\/\/www.ibm.com\/watson\/developercloud\/visual-recognition\/api\/v3\//);
-  checkLinkDest(baseHost, 'div.banner--service-links li:nth-child(2) a', /https:\/\/console.bluemix.net\/docs\/services\/visual-recognition\/getting-started.html/);
-  checkLinkDest(baseHost, 'div.banner--service-links li:nth-child(3) a', /https:\/\/github.com\/watson-developer-cloud\/visual-recognition-nodejs/);
 }
 
 function checkLinkDest(starturl, selectorToClick, shouldBePattern) {
