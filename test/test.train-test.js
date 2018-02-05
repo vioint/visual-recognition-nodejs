@@ -33,12 +33,15 @@ casper.thenOpen('http://localhost:3000/train', function(result) {
   // click three of deez
   casper.then(function() {
     this.click('button._positive[data-name="goldenretriever"]');
+    this.test.assertSelectorHasText('button._positive[data-name="goldenretriever"]', 'Deselect')
   });
   casper.then(function() {
     this.click('button._positive[data-name="husky"]');
+    this.test.assertSelectorHasText('button._positive[data-name="husky"]', 'Deselect')
   });
   casper.then(function() {
     this.click('button._positive[data-name="dalmatian"]');
+    this.test.assertSelectorHasText('button._positive[data-name="husky"]', 'Deselect')
   });
   // TRAAAAIIIIIN!
   casper.then(function() {
@@ -46,9 +49,7 @@ casper.thenOpen('http://localhost:3000/train', function(result) {
   });
 
   casper.then(function() {
-    casper.waitUntilVisible('.train--loading', function() {
-      casper.test.assertVisible('.train--loading', 'animation displayed during training');
-    })
+    casper.test.assertVisible('.train--loading', 'animation displayed during training');
   });
 
   casper.waitWhileVisible('.train--loading', function() {
