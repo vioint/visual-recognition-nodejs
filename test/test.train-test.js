@@ -1,5 +1,5 @@
 var system = require('system');
-var apiKey = system.env.API_KEY;
+var apiKey = system.env.VISUAL_RECOGNITION_API_KEY;
 
 casper.options.waitTimeout = 60000;
 
