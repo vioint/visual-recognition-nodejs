@@ -15,7 +15,7 @@ casper.thenOpen('http://localhost:3000/train', function(result) {
 
   // dog breeds
   casper.then(function() {
-    this.click('div._training--example:nth-child(1)');
+    this.click('div._training--example[data-kind="dogs"]');
   });
 
   // dog type examples
