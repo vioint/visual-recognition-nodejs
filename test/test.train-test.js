@@ -4,6 +4,14 @@ var apiKey = system.env.VISUAL_RECOGNITION_API_KEY;
 casper.options.waitTimeout = 60000;
 casper.options.verbose = true;
 
+casper.on('remote.message', function (msg){
+  console.log('remote message: ' + msg)
+})
+
+casper.on('page.error', function(msg){
+  console.log('page error: ' + msg)
+})
+
 casper.start();
 
 casper.thenBypassUnless(function() {
@@ -12,18 +20,34 @@ casper.thenBypassUnless(function() {
 
 casper.thenOpen('http://localhost:3000/train', function(result) {
   casper.test.assert(result.status === 200, 'Front page opens');
+  casper.capture('front-page.png');
   casper.test.assertSelectorHasText('h1.base--h2.use--header', 'Train a demo classifier');
+
+
+  casper.wait(10000)
+  casper.capture('front-page-post.png');
+  casper.then(function(){
+    casper.waitForSelector('div.traning--example[data-kind="dogs"]', function(){
+      console.log("CLICKABLE")
+
+      //console.log(JSON.stringify(this.getElementInfo('div._training--example clickable[data-kind="dogs"]')))
+      casper.capture('clickable.png')
+    })
+  })
 
   // dog breeds
   casper.then(function() {
     this.click('div._training--example[data-kind="dogs"]');
     console.log(JSON.stringify(this.getElementInfo('div._training--example[data-kind="dogs"]')))
+    console.log(JSON.stringify(this.getElementInfo('div._examples[data-kind="dogs"]')))
+
+    casper.capture('click.png');
   });
 
   // dog type examples
-  casper.waitForSelector('._examples showing', function() {
-    console.log(JSON.stringify(this.getElementInfo('div._examples[data-kind="dogs"]')))
+  casper.waitForSelector('div._examples[data-kind="dogs"] showing', function() {
     console.log(JSON.stringify(this.getElementsInfo('div._examples showing')))
+
 
     casper.then(function() {
       this.click('img[data-name="goldenretriever"]');

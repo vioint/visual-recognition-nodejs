@@ -38,6 +38,7 @@ require('./config/express')(app);
 // environment property and then fall back to the VCAP_SERVICES property provided by the IBM Cloud.
 var visualRecognition = new watson.VisualRecognitionV3({
   // api_key: '<api-key>',
+  api_key: 'longerkeyname',
   version_date: '2015-05-19'
 });
 

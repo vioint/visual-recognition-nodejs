@@ -1,16 +1,17 @@
 'use strict';
 
-if (!process.env.VISUAL_RECOGNITION_API_KEY) {
-  console.log('Skipping integration tests because VISUAL_RECOGNITION_API_KEY is null');
-  process.exit(0);
-}
+// if (!process.env.VISUAL_RECOGNITION_API_KEY) {
+//   console.log('Skipping integration tests because VISUAL_RECOGNITION_API_KEY is null');
+//   process.exit(0);
+// }
 
 var spawn = require('child_process').spawn;
 
 require('dotenv').config({silent: true});
 
 var server = require('./app');
-var port = process.env.PORT || process.env.VCAP_APP_PORT || 3000;
+//var port = process.env.PORT || process.env.VCAP_APP_PORT || 3000;
+var port = 3000;
 
 var toclose = server.listen(port, function() {
   console.log('Server running on port: %d', port);
@@ -35,4 +36,3 @@ var runTests = function() {
     });
   });
 };
-
