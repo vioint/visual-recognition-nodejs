@@ -15,6 +15,8 @@
  */
 'use strict';
 
+var ExifParser = require('exif-parser');
+
 /**
  * Returns the next hour as Date
  * @return {Date} the next hour
@@ -35,6 +37,83 @@ module.exports.nextHour = function nextHour() {
 module.exports.getRandomInt = function getRandomInt(min, max) {
   return Math.floor(Math.random() * (max - min + 1)) + min;
 };
+
+// Get the image orientation tag, if it exists
+// Returns the tag (1-8) or -1 if it does not exist
+module.exports.getImageOrientation = (imageFile, callback) => {
+    var reader = new FileReader()
+    reader.onload = () => {
+        var parser = ExifParser.create(reader.result)
+        try {
+            var results = parser.parse()
+            if (results.tags.Orientation) {
+                callback(results.tags.Orientation)
+            } else {
+                callback(-1)
+            }
+        } catch (e) {
+            callback(-1)
+        }
+    }
+    reader.readAsArrayBuffer(imageFile)
+}
+
+// Transforms the image to its intended orientation
+// Does nothing if orientation is not valid
+module.exports.fixOrientation = (imageDataURI, orientation, callback) => {
+    if(!(orientation > 0 && orientation <= 8)){
+        callback(imageDataURI)
+        return
+    }
+
+    var img = new Image();
+
+    img.onload = () => {
+        var c = window.document.createElement('canvas')
+        var ctx = c.getContext("2d")
+        var width = img.width
+        var height = img.height
+
+        if (4 < orientation && orientation < 9) {
+            c.width = height
+            c.height = width
+        } else {
+            c.width = width
+            c.height = height
+        }
+
+        switch (orientation) {
+            case 2:
+                ctx.transform(-1, 0, 0, 1, width, 0)
+                break
+            case 3:
+                ctx.transform(-1, 0, 0, -1, width, height)
+                break
+            case 4:
+                ctx.transform(1, 0, 0, -1, 0, height)
+                break
+            case 5:
+                ctx.transform(0, 1, 1, 0, 0, 0)
+                break
+            case 6:
+                ctx.transform(0, 1, -1, 0, height, 0)
+                break
+            case 7:
+                ctx.transform(0, -1, -1, 0, height, width)
+                break
+            case 8:
+                ctx.transform(0, -1, 1, 0, 0, width)
+                break
+            default:
+                break
+        }
+
+        ctx.drawImage(img, 0, 0)
+        callback(c.toDataURL('image/jpeg', 0.5))
+    }
+
+    img.src = imageDataURI;
+}
 
 /**
  * Resizes an image

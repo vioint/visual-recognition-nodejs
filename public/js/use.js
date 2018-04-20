@@ -17,6 +17,8 @@
 'use strict';
 
 var resize = require('./demo.js').resize;
+var fixOrientation = require('./demo.js').fixOrientation;
+var getImageOrientation = require('./demo.js').getImageOrientation;
 var scrollToElement = require('./demo.js').scrollToElement;
 const StateManager = require('./state.js');
 var getRandomInt = require('./demo.js').getRandomInt;
@@ -287,20 +289,27 @@ function setupUse(params) {
         $error.hide();
 
         processImage();
-        var reader = new FileReader();
-        reader.onload = function () {
-          var image = new Image();
-          image.src = reader.result;
-          image.onload = function () {
-            var resizedImage = (data.files[0]['size'] > 2000000) ? resize(image, 800) : this.src;
-            $image.attr('src', resizedImage);
-            classifyImage('', resizedImage);
+        getImageOrientation(data.files[0], function (orientation) {
+          if (!orientation){
+              return
+          }
+          var reader = new FileReader();
+          reader.onload = function () {
+            fixOrientation(reader.result, orientation, function (exifURI) {
+              var image = new Image();
+              image.src = exifURI;
+              image.onload = function () {
+                var resizedImage = (exifURI.length > 10485760) ? resize(image, 800) : this.src;
+                $image.attr('src', resizedImage);
+                classifyImage('', resizedImage);
+              };
+              image.onerror = function () {
+                _error(null, 'Error loading the image file. I can only work with images.');
+              };
+            })
           };
-          image.onerror = function () {
-            _error(null, 'Error loading the image file. I can only work with images.');
-          };
-        };
-        reader.readAsDataURL(data.files[0]);
+          reader.readAsDataURL(data.files[0]);
+        })
       }
     },
     error: _error,
