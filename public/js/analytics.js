@@ -8,4 +8,4 @@ function loadAnalytics() {
 }
 
 
-window.addEventListener('load', loadAnalytics);
+// window.addEventListener('load', loadAnalytics);
