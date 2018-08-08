@@ -1,0 +1,32 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Reframer",
+            "program": "${workspaceFolder}/components/reframer.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Reframe-data-collector",
+            "program": "${workspaceFolder}/components/reframe-data-collector.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Reframe-data-map",
+            "program": "${workspaceFolder}/components/reframe-map.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/server.js"
+        }
+    ]
+}

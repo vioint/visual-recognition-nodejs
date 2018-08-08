@@ -1,0 +1,5810 @@
+{
+    "zero": {
+        "tags": {
+            "O ring": {
+                "totals": 4,
+                "totalScore": 2.88,
+                "avgScore": 0.72
+            },
+            "fastener": {
+                "totals": 8,
+                "totalScore": 5.324999999999999,
+                "avgScore": 0.6656249999999999
+            },
+            "restraint (chains)": {
+                "totals": 8,
+                "totalScore": 5.324999999999999,
+                "avgScore": 0.6656249999999999
+            },
+            "gasket": {
+                "totals": 2,
+                "totalScore": 1,
+                "avgScore": 0.5
+            },
+            "figure": {
+                "totals": 9,
+                "totalScore": 6.207,
+                "avgScore": 0.6896666666666667
+            },
+            "round shape": {
+                "totals": 4,
+                "totalScore": 2.503,
+                "avgScore": 0.62575
+            },
+            "optical device": {
+                "totals": 4,
+                "totalScore": 2.891,
+                "avgScore": 0.72275
+            },
+            "coal black color": {
+                "totals": 5,
+                "totalScore": 4.29,
+                "avgScore": 0.858
+            },
+            "charcoal color": {
+                "totals": 3,
+                "totalScore": 2.088,
+                "avgScore": 0.6960000000000001
+            },
+            "circle": {
+                "totals": 5,
+                "totalScore": 3.248,
+                "avgScore": 0.6496000000000001
+            },
+            "piston ring": {
+                "totals": 2,
+                "totalScore": 1.346,
+                "avgScore": 0.673
+            },
+            "ellipse": {
+                "totals": 7,
+                "totalScore": 4.278,
+                "avgScore": 0.6111428571428571
+            },
+            "ivory color": {
+                "totals": 4,
+                "totalScore": 3.49,
+                "avgScore": 0.8725
+            },
+            "emerald color": {
+                "totals": 5,
+                "totalScore": 4.266,
+                "avgScore": 0.8532
+            },
+            "magnet": {
+                "totals": 3,
+                "totalScore": 2.24,
+                "avgScore": 0.7466666666666667
+            },
+            "hawse": {
+                "totals": 1,
+                "totalScore": 0.627,
+                "avgScore": 0.627
+            },
+            "finger plate": {
+                "totals": 9,
+                "totalScore": 6.316999999999999,
+                "avgScore": 0.7018888888888888
+            },
+            "protective covering": {
+                "totals": 10,
+                "totalScore": 7.143999999999999,
+                "avgScore": 0.7143999999999999
+            },
+            "bar magnet": {
+                "totals": 2,
+                "totalScore": 1.073,
+                "avgScore": 0.5365
+            },
+            "mechanism": {
+                "totals": 3,
+                "totalScore": 2.183,
+                "avgScore": 0.7276666666666666
+            },
+            "reddish orange color": {
+                "totals": 3,
+                "totalScore": 2.621,
+                "avgScore": 0.8736666666666667
+            },
+            "dark red color": {
+                "totals": 1,
+                "totalScore": 0.771,
+                "avgScore": 0.771
+            },
+            "pale yellow color": {
+                "totals": 2,
+                "totalScore": 1.5550000000000002,
+                "avgScore": 0.7775000000000001
+            },
+            "level": {
+                "totals": 1,
+                "totalScore": 0.533,
+                "avgScore": 0.533
+            },
+            "indicator": {
+                "totals": 1,
+                "totalScore": 0.533,
+                "avgScore": 0.533
+            },
+            "cellulose tape": {
+                "totals": 2,
+                "totalScore": 1.193,
+                "avgScore": 0.5965
+            },
+            "green color": {
+                "totals": 1,
+                "totalScore": 0.801,
+                "avgScore": 0.801
+            },
+            "jade green color": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "utensil": {
+                "totals": 2,
+                "totalScore": 1.486,
+                "avgScore": 0.743
+            },
+            "game equipment": {
+                "totals": 1,
+                "totalScore": 0.598,
+                "avgScore": 0.598
+            },
+            "tableware": {
+                "totals": 2,
+                "totalScore": 1.329,
+                "avgScore": 0.6645
+            },
+            "alizarine red color": {
+                "totals": 2,
+                "totalScore": 1.763,
+                "avgScore": 0.8815
+            },
+            "lines": {
+                "totals": 1,
+                "totalScore": 0.697,
+                "avgScore": 0.697
+            },
+            "photo with lines": {
+                "totals": 2,
+                "totalScore": 1.383,
+                "avgScore": 0.6915
+            },
+            "platter": {
+                "totals": 1,
+                "totalScore": 0.625,
+                "avgScore": 0.625
+            },
+            "porcelain": {
+                "totals": 1,
+                "totalScore": 0.762,
+                "avgScore": 0.762
+            },
+            "Spode (porcelian)": {
+                "totals": 1,
+                "totalScore": 0.575,
+                "avgScore": 0.575
+            },
+            "pave (jewelery)": {
+                "totals": 1,
+                "totalScore": 0.51,
+                "avgScore": 0.51
+            },
+            "framework": {
+                "totals": 1,
+                "totalScore": 0.51,
+                "avgScore": 0.51
+            },
+            "supporting structure": {
+                "totals": 1,
+                "totalScore": 0.51,
+                "avgScore": 0.51
+            },
+            "plate": {
+                "totals": 3,
+                "totalScore": 1.7970000000000002,
+                "avgScore": 0.5990000000000001
+            },
+            "ultramarine color": {
+                "totals": 3,
+                "totalScore": 2.937,
+                "avgScore": 0.979
+            },
+            "electric switch": {
+                "totals": 2,
+                "totalScore": 1.4340000000000002,
+                "avgScore": 0.7170000000000001
+            },
+            "controller": {
+                "totals": 3,
+                "totalScore": 2.211,
+                "avgScore": 0.737
+            },
+            "octagon": {
+                "totals": 1,
+                "totalScore": 0.703,
+                "avgScore": 0.703
+            },
+            "polygon": {
+                "totals": 1,
+                "totalScore": 0.704,
+                "avgScore": 0.704
+            },
+            "bell push (button)": {
+                "totals": 1,
+                "totalScore": 0.692,
+                "avgScore": 0.692
+            },
+            "push button": {
+                "totals": 3,
+                "totalScore": 2.106,
+                "avgScore": 0.702
+            },
+            "doorbell": {
+                "totals": 2,
+                "totalScore": 1,
+                "avgScore": 0.5
+            },
+            "closeup lens": {
+                "totals": 1,
+                "totalScore": 0.503,
+                "avgScore": 0.503
+            },
+            "lens system": {
+                "totals": 1,
+                "totalScore": 0.503,
+                "avgScore": 0.503
+            },
+            "C-clamp": {
+                "totals": 1,
+                "totalScore": 0.676,
+                "avgScore": 0.676
+            },
+            "buckle": {
+                "totals": 2,
+                "totalScore": 1.042,
+                "avgScore": 0.521
+            },
+            "claw": {
+                "totals": 1,
+                "totalScore": 0.513,
+                "avgScore": 0.513
+            },
+            "mechanical device": {
+                "totals": 1,
+                "totalScore": 0.513,
+                "avgScore": 0.513
+            },
+            "horseshoe": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "tool": {
+                "totals": 1,
+                "totalScore": 0.59,
+                "avgScore": 0.59
+            },
+            "bottle green color": {
+                "totals": 2,
+                "totalScore": 1.276,
+                "avgScore": 0.638
+            },
+            "powder compact": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "bracteole": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "plant": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "keyhole": {
+                "totals": 1,
+                "totalScore": 0.674,
+                "avgScore": 0.674
+            },
+            "roundel": {
+                "totals": 2,
+                "totalScore": 1.2959999999999998,
+                "avgScore": 0.6479999999999999
+            },
+            "shield": {
+                "totals": 2,
+                "totalScore": 1.297,
+                "avgScore": 0.6485
+            },
+            "ball": {
+                "totals": 1,
+                "totalScore": 0.792,
+                "avgScore": 0.792
+            },
+            "eyecup": {
+                "totals": 2,
+                "totalScore": 1.472,
+                "avgScore": 0.736
+            },
+            "sconce (lighting)": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "light source": {
+                "totals": 1,
+                "totalScore": 0.523,
+                "avgScore": 0.523
+            },
+            "blue chip": {
+                "totals": 1,
+                "totalScore": 0.699,
+                "avgScore": 0.699
+            },
+            "primary color for light": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "gold plate": {
+                "totals": 1,
+                "totalScore": 0.726,
+                "avgScore": 0.726
+            },
+            "coating": {
+                "totals": 1,
+                "totalScore": 0.726,
+                "avgScore": 0.726
+            },
+            "lamp": {
+                "totals": 1,
+                "totalScore": 0.595,
+                "avgScore": 0.595
+            }
+        },
+        "commonTags": [
+            {
+                "name": "fastener",
+                "avgScore": 0.6656249999999999
+            },
+            {
+                "name": "restraint (chains)",
+                "avgScore": 0.6656249999999999
+            },
+            {
+                "name": "figure",
+                "avgScore": 0.6896666666666667
+            },
+            {
+                "name": "circle",
+                "avgScore": 0.6496000000000001
+            },
+            {
+                "name": "ellipse",
+                "avgScore": 0.6111428571428571
+            },
+            {
+                "name": "finger plate",
+                "avgScore": 0.7018888888888888
+            },
+            {
+                "name": "protective covering",
+                "avgScore": 0.7143999999999999
+            }
+        ]
+    },
+    "one": {
+        "tags": {
+            "floor lamp": {
+                "totals": 1,
+                "totalScore": 0.834,
+                "avgScore": 0.834
+            },
+            "lamp": {
+                "totals": 7,
+                "totalScore": 4.55,
+                "avgScore": 0.65
+            },
+            "furniture": {
+                "totals": 5,
+                "totalScore": 3.3569999999999998,
+                "avgScore": 0.6714
+            },
+            "arc lamp": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "electric lamp": {
+                "totals": 1,
+                "totalScore": 0.502,
+                "avgScore": 0.502
+            },
+            "figure": {
+                "totals": 7,
+                "totalScore": 5.013,
+                "avgScore": 0.7161428571428571
+            },
+            "tool": {
+                "totals": 11,
+                "totalScore": 7.538000000000001,
+                "avgScore": 0.6852727272727274
+            },
+            "gray color": {
+                "totals": 6,
+                "totalScore": 4.878,
+                "avgScore": 0.8130000000000001
+            },
+            "fanion flag": {
+                "totals": 1,
+                "totalScore": 0.93,
+                "avgScore": 0.93
+            },
+            "flag": {
+                "totals": 2,
+                "totalScore": 1.9089999999999998,
+                "avgScore": 0.9544999999999999
+            },
+            "alizarine red color": {
+                "totals": 2,
+                "totalScore": 1.925,
+                "avgScore": 0.9625
+            },
+            "hitchrack": {
+                "totals": 2,
+                "totalScore": 1.45,
+                "avgScore": 0.725
+            },
+            "rail": {
+                "totals": 2,
+                "totalScore": 1.45,
+                "avgScore": 0.725
+            },
+            "train": {
+                "totals": 2,
+                "totalScore": 1.45,
+                "avgScore": 0.725
+            },
+            "streetlight": {
+                "totals": 2,
+                "totalScore": 1.22,
+                "avgScore": 0.61
+            },
+            "psychrometer (hygrometer)": {
+                "totals": 2,
+                "totalScore": 1.018,
+                "avgScore": 0.509
+            },
+            "measuring instrument": {
+                "totals": 3,
+                "totalScore": 1.5650000000000002,
+                "avgScore": 0.5216666666666667
+            },
+            "desktop": {
+                "totals": 2,
+                "totalScore": 1,
+                "avgScore": 0.5
+            },
+            "video display": {
+                "totals": 4,
+                "totalScore": 2.234,
+                "avgScore": 0.5585
+            },
+            "electronic device": {
+                "totals": 4,
+                "totalScore": 2.241,
+                "avgScore": 0.56025
+            },
+            "coal black color": {
+                "totals": 6,
+                "totalScore": 4.867,
+                "avgScore": 0.8111666666666667
+            },
+            "frame": {
+                "totals": 3,
+                "totalScore": 2.057,
+                "avgScore": 0.6856666666666666
+            },
+            "framework": {
+                "totals": 6,
+                "totalScore": 4.458,
+                "avgScore": 0.743
+            },
+            "supporting structure": {
+                "totals": 6,
+                "totalScore": 4.459,
+                "avgScore": 0.7431666666666666
+            },
+            "towel rack": {
+                "totals": 2,
+                "totalScore": 1.635,
+                "avgScore": 0.8175
+            },
+            "rack": {
+                "totals": 2,
+                "totalScore": 1.6360000000000001,
+                "avgScore": 0.8180000000000001
+            },
+            "triangle": {
+                "totals": 2,
+                "totalScore": 1.161,
+                "avgScore": 0.5805
+            },
+            "polygon": {
+                "totals": 2,
+                "totalScore": 1.256,
+                "avgScore": 0.628
+            },
+            "swing": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "mechanical device": {
+                "totals": 3,
+                "totalScore": 1.8370000000000002,
+                "avgScore": 0.6123333333333334
+            },
+            "emerald color": {
+                "totals": 2,
+                "totalScore": 1.926,
+                "avgScore": 0.963
+            },
+            "clotheshorse": {
+                "totals": 1,
+                "totalScore": 0.604,
+                "avgScore": 0.604
+            },
+            "hypotenuse": {
+                "totals": 1,
+                "totalScore": 0.595,
+                "avgScore": 0.595
+            },
+            "lines": {
+                "totals": 1,
+                "totalScore": 0.582,
+                "avgScore": 0.582
+            },
+            "right triangle": {
+                "totals": 1,
+                "totalScore": 0.569,
+                "avgScore": 0.569
+            },
+            "concave polygon": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "olive green color": {
+                "totals": 1,
+                "totalScore": 0.724,
+                "avgScore": 0.724
+            },
+            "square": {
+                "totals": 3,
+                "totalScore": 1.978,
+                "avgScore": 0.6593333333333333
+            },
+            "shelf bracket": {
+                "totals": 2,
+                "totalScore": 1.07,
+                "avgScore": 0.535
+            },
+            "wall bracket": {
+                "totals": 3,
+                "totalScore": 1.673,
+                "avgScore": 0.5576666666666666
+            },
+            "support": {
+                "totals": 4,
+                "totalScore": 2.324,
+                "avgScore": 0.581
+            },
+            "Allen wrench": {
+                "totals": 2,
+                "totalScore": 1.1219999999999999,
+                "avgScore": 0.5609999999999999
+            },
+            "wrench": {
+                "totals": 2,
+                "totalScore": 1.1219999999999999,
+                "avgScore": 0.5609999999999999
+            },
+            "picture frame": {
+                "totals": 2,
+                "totalScore": 1.405,
+                "avgScore": 0.7025
+            },
+            "controller": {
+                "totals": 2,
+                "totalScore": 1.58,
+                "avgScore": 0.79
+            },
+            "charcoal color": {
+                "totals": 2,
+                "totalScore": 1.4460000000000002,
+                "avgScore": 0.7230000000000001
+            },
+            "ensign": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "wing": {
+                "totals": 1,
+                "totalScore": 0.623,
+                "avgScore": 0.623
+            },
+            "aerofoil (aeroplane)": {
+                "totals": 1,
+                "totalScore": 0.623,
+                "avgScore": 0.623
+            },
+            "comet": {
+                "totals": 1,
+                "totalScore": 0.567,
+                "avgScore": 0.567
+            },
+            "spoor": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "nature": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "paper clip": {
+                "totals": 1,
+                "totalScore": 0.703,
+                "avgScore": 0.703
+            },
+            "fastener": {
+                "totals": 2,
+                "totalScore": 1.2069999999999999,
+                "avgScore": 0.6034999999999999
+            },
+            "restraint (chains)": {
+                "totals": 2,
+                "totalScore": 1.2069999999999999,
+                "avgScore": 0.6034999999999999
+            },
+            "reading lamp": {
+                "totals": 2,
+                "totalScore": 1.164,
+                "avgScore": 0.582
+            },
+            "balance": {
+                "totals": 1,
+                "totalScore": 0.54,
+                "avgScore": 0.54
+            },
+            "weighing machine": {
+                "totals": 1,
+                "totalScore": 0.544,
+                "avgScore": 0.544
+            },
+            "claw": {
+                "totals": 1,
+                "totalScore": 0.519,
+                "avgScore": 0.519
+            },
+            "tuning fork": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "utensil": {
+                "totals": 1,
+                "totalScore": 0.599,
+                "avgScore": 0.599
+            },
+            "electrical device": {
+                "totals": 1,
+                "totalScore": 0.591,
+                "avgScore": 0.591
+            },
+            "sconce (lighting)": {
+                "totals": 2,
+                "totalScore": 1.294,
+                "avgScore": 0.647
+            },
+            "light source": {
+                "totals": 3,
+                "totalScore": 1.899,
+                "avgScore": 0.633
+            },
+            "mortise joint": {
+                "totals": 1,
+                "totalScore": 0.551,
+                "avgScore": 0.551
+            },
+            "joint": {
+                "totals": 1,
+                "totalScore": 0.679,
+                "avgScore": 0.679
+            },
+            "miter joint": {
+                "totals": 1,
+                "totalScore": 0.506,
+                "avgScore": 0.506
+            },
+            "firebrick": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "brick": {
+                "totals": 1,
+                "totalScore": 0.511,
+                "avgScore": 0.511
+            },
+            "ceramic": {
+                "totals": 1,
+                "totalScore": 0.511,
+                "avgScore": 0.511
+            },
+            "electrical connector": {
+                "totals": 1,
+                "totalScore": 0.6,
+                "avgScore": 0.6
+            },
+            "light brown color": {
+                "totals": 2,
+                "totalScore": 1.758,
+                "avgScore": 0.879
+            },
+            "brick red color": {
+                "totals": 1,
+                "totalScore": 0.585,
+                "avgScore": 0.585
+            },
+            "ax head": {
+                "totals": 1,
+                "totalScore": 0.818,
+                "avgScore": 0.818
+            },
+            "inclined plane": {
+                "totals": 1,
+                "totalScore": 0.818,
+                "avgScore": 0.818
+            },
+            "machine": {
+                "totals": 1,
+                "totalScore": 0.818,
+                "avgScore": 0.818
+            },
+            "tomahawk": {
+                "totals": 1,
+                "totalScore": 0.646,
+                "avgScore": 0.646
+            },
+            "weapon": {
+                "totals": 1,
+                "totalScore": 0.646,
+                "avgScore": 0.646
+            },
+            "ax handle": {
+                "totals": 2,
+                "totalScore": 1.0470000000000002,
+                "avgScore": 0.5235000000000001
+            },
+            "ax": {
+                "totals": 2,
+                "totalScore": 1.4209999999999998,
+                "avgScore": 0.7104999999999999
+            },
+            "cutlery": {
+                "totals": 2,
+                "totalScore": 1.422,
+                "avgScore": 0.711
+            },
+            "hatchet": {
+                "totals": 1,
+                "totalScore": 0.503,
+                "avgScore": 0.503
+            },
+            "common ax": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "reddish brown color": {
+                "totals": 1,
+                "totalScore": 0.682,
+                "avgScore": 0.682
+            },
+            "air horn": {
+                "totals": 1,
+                "totalScore": 0.657,
+                "avgScore": 0.657
+            },
+            "horn": {
+                "totals": 1,
+                "totalScore": 0.667,
+                "avgScore": 0.667
+            },
+            "lever tumbler": {
+                "totals": 2,
+                "totalScore": 1.1880000000000002,
+                "avgScore": 0.5940000000000001
+            },
+            "candlestick": {
+                "totals": 1,
+                "totalScore": 0.547,
+                "avgScore": 0.547
+            },
+            "holder": {
+                "totals": 1,
+                "totalScore": 0.548,
+                "avgScore": 0.548
+            },
+            "chamfer bit": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "holding device": {
+                "totals": 1,
+                "totalScore": 0.6,
+                "avgScore": 0.6
+            },
+            "alarm": {
+                "totals": 1,
+                "totalScore": 0.601,
+                "avgScore": 0.601
+            },
+            "orange color": {
+                "totals": 1,
+                "totalScore": 0.892,
+                "avgScore": 0.892
+            },
+            "yellow color": {
+                "totals": 1,
+                "totalScore": 0.768,
+                "avgScore": 0.768
+            },
+            "external drive": {
+                "totals": 1,
+                "totalScore": 0.635,
+                "avgScore": 0.635
+            },
+            "drive": {
+                "totals": 1,
+                "totalScore": 0.688,
+                "avgScore": 0.688
+            },
+            "modem": {
+                "totals": 1,
+                "totalScore": 0.618,
+                "avgScore": 0.618
+            },
+            "memory device": {
+                "totals": 1,
+                "totalScore": 0.599,
+                "avgScore": 0.599
+            },
+            "jotter (notebook)": {
+                "totals": 1,
+                "totalScore": 0.712,
+                "avgScore": 0.712
+            },
+            "refrigeration system": {
+                "totals": 1,
+                "totalScore": 0.634,
+                "avgScore": 0.634
+            },
+            "cooling system": {
+                "totals": 1,
+                "totalScore": 0.635,
+                "avgScore": 0.635
+            },
+            "refrigerator": {
+                "totals": 1,
+                "totalScore": 0.558,
+                "avgScore": 0.558
+            },
+            "appliance": {
+                "totals": 1,
+                "totalScore": 0.567,
+                "avgScore": 0.567
+            },
+            "ring-binder": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "protective covering": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "reading desk": {
+                "totals": 2,
+                "totalScore": 1.189,
+                "avgScore": 0.5945
+            },
+            "table": {
+                "totals": 2,
+                "totalScore": 1.202,
+                "avgScore": 0.601
+            },
+            "table lamp": {
+                "totals": 1,
+                "totalScore": 0.576,
+                "avgScore": 0.576
+            },
+            "searchlight": {
+                "totals": 1,
+                "totalScore": 0.535,
+                "avgScore": 0.535
+            },
+            "monitor (computer)": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "pedestal": {
+                "totals": 1,
+                "totalScore": 0.634,
+                "avgScore": 0.634
+            },
+            "computer monitor": {
+                "totals": 1,
+                "totalScore": 0.589,
+                "avgScore": 0.589
+            },
+            "try square": {
+                "totals": 1,
+                "totalScore": 0.556,
+                "avgScore": 0.556
+            },
+            "dialog box": {
+                "totals": 1,
+                "totalScore": 0.58,
+                "avgScore": 0.58
+            },
+            "window": {
+                "totals": 1,
+                "totalScore": 0.616,
+                "avgScore": 0.616
+            },
+            "corbel (building)": {
+                "totals": 1,
+                "totalScore": 0.574,
+                "avgScore": 0.574
+            },
+            "sash fastener": {
+                "totals": 1,
+                "totalScore": 0.504,
+                "avgScore": 0.504
+            },
+            "lock": {
+                "totals": 1,
+                "totalScore": 0.504,
+                "avgScore": 0.504
+            },
+            "ironmongery": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "pale yellow color": {
+                "totals": 1,
+                "totalScore": 0.943,
+                "avgScore": 0.943
+            },
+            "reddish orange color": {
+                "totals": 1,
+                "totalScore": 0.706,
+                "avgScore": 0.706
+            },
+            "circle": {
+                "totals": 1,
+                "totalScore": 0.678,
+                "avgScore": 0.678
+            },
+            "primary color for light": {
+                "totals": 1,
+                "totalScore": 0.522,
+                "avgScore": 0.522
+            },
+            "spectrum of colors": {
+                "totals": 1,
+                "totalScore": 0.504,
+                "avgScore": 0.504
+            },
+            "round shape": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            }
+        },
+        "commonTags": [
+            {
+                "name": "lamp",
+                "avgScore": 0.65
+            },
+            {
+                "name": "furniture",
+                "avgScore": 0.6714
+            },
+            {
+                "name": "figure",
+                "avgScore": 0.7161428571428571
+            },
+            {
+                "name": "tool",
+                "avgScore": 0.6852727272727274
+            },
+            {
+                "name": "framework",
+                "avgScore": 0.743
+            },
+            {
+                "name": "supporting structure",
+                "avgScore": 0.7431666666666666
+            }
+        ]
+    },
+    "two": {
+        "tags": {
+            "boomerang": {
+                "totals": 5,
+                "totalScore": 3.0860000000000003,
+                "avgScore": 0.6172000000000001
+            },
+            "weapon": {
+                "totals": 5,
+                "totalScore": 3.0860000000000003,
+                "avgScore": 0.6172000000000001
+            },
+            "shepherd's crook a (stick)": {
+                "totals": 1,
+                "totalScore": 0.775,
+                "avgScore": 0.775
+            },
+            "S-shape": {
+                "totals": 5,
+                "totalScore": 2.884,
+                "avgScore": 0.5768
+            },
+            "photo with lines": {
+                "totals": 9,
+                "totalScore": 6.204,
+                "avgScore": 0.6893333333333334
+            },
+            "tool": {
+                "totals": 10,
+                "totalScore": 7.59,
+                "avgScore": 0.759
+            },
+            "olive green color": {
+                "totals": 2,
+                "totalScore": 1.7469999999999999,
+                "avgScore": 0.8734999999999999
+            },
+            "lemon yellow color": {
+                "totals": 2,
+                "totalScore": 1.661,
+                "avgScore": 0.8305
+            },
+            "crescent shaped": {
+                "totals": 7,
+                "totalScore": 5.202,
+                "avgScore": 0.7431428571428571
+            },
+            "animal": {
+                "totals": 2,
+                "totalScore": 1.1869999999999998,
+                "avgScore": 0.5934999999999999
+            },
+            "microorganism": {
+                "totals": 5,
+                "totalScore": 2.8280000000000003,
+                "avgScore": 0.5656000000000001
+            },
+            "worm": {
+                "totals": 5,
+                "totalScore": 3.3520000000000003,
+                "avgScore": 0.6704000000000001
+            },
+            "coal black color": {
+                "totals": 6,
+                "totalScore": 5.464999999999999,
+                "avgScore": 0.9108333333333332
+            },
+            "sickle": {
+                "totals": 2,
+                "totalScore": 1.245,
+                "avgScore": 0.6225
+            },
+            "cutlery": {
+                "totals": 2,
+                "totalScore": 1.245,
+                "avgScore": 0.6225
+            },
+            "whip": {
+                "totals": 3,
+                "totalScore": 2.199,
+                "avgScore": 0.733
+            },
+            "pruning saw": {
+                "totals": 1,
+                "totalScore": 0.613,
+                "avgScore": 0.613
+            },
+            "handsaw": {
+                "totals": 1,
+                "totalScore": 0.617,
+                "avgScore": 0.617
+            },
+            "saw": {
+                "totals": 2,
+                "totalScore": 1.4300000000000002,
+                "avgScore": 0.7150000000000001
+            },
+            "blood agar": {
+                "totals": 1,
+                "totalScore": 0.673,
+                "avgScore": 0.673
+            },
+            "food": {
+                "totals": 2,
+                "totalScore": 1.358,
+                "avgScore": 0.679
+            },
+            "figure": {
+                "totals": 6,
+                "totalScore": 3.9170000000000003,
+                "avgScore": 0.6528333333333334
+            },
+            "alizarine red color": {
+                "totals": 3,
+                "totalScore": 2.8890000000000002,
+                "avgScore": 0.9630000000000001
+            },
+            "lavaliere (jewelled pendent)": {
+                "totals": 2,
+                "totalScore": 1.5419999999999998,
+                "avgScore": 0.7709999999999999
+            },
+            "lines": {
+                "totals": 3,
+                "totalScore": 1.831,
+                "avgScore": 0.6103333333333333
+            },
+            "triangle": {
+                "totals": 1,
+                "totalScore": 0.539,
+                "avgScore": 0.539
+            },
+            "polygon": {
+                "totals": 1,
+                "totalScore": 0.539,
+                "avgScore": 0.539
+            },
+            "arabesque (ornament)": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "emerald color": {
+                "totals": 5,
+                "totalScore": 4.399,
+                "avgScore": 0.8798
+            },
+            "digital clock": {
+                "totals": 1,
+                "totalScore": 0.545,
+                "avgScore": 0.545
+            },
+            "clock": {
+                "totals": 1,
+                "totalScore": 0.546,
+                "avgScore": 0.546
+            },
+            "timepiece": {
+                "totals": 1,
+                "totalScore": 0.546,
+                "avgScore": 0.546
+            },
+            "measuring instrument": {
+                "totals": 1,
+                "totalScore": 0.546,
+                "avgScore": 0.546
+            },
+            "tetraskelion": {
+                "totals": 1,
+                "totalScore": 0.537,
+                "avgScore": 0.537
+            },
+            "buckle": {
+                "totals": 1,
+                "totalScore": 0.504,
+                "avgScore": 0.504
+            },
+            "fastener": {
+                "totals": 3,
+                "totalScore": 1.556,
+                "avgScore": 0.5186666666666667
+            },
+            "restraint (chains)": {
+                "totals": 3,
+                "totalScore": 1.557,
+                "avgScore": 0.519
+            },
+            "L-plate (learners plate for car)": {
+                "totals": 1,
+                "totalScore": 0.992,
+                "avgScore": 0.992
+            },
+            "pink-and-white everlasting": {
+                "totals": 1,
+                "totalScore": 0.665,
+                "avgScore": 0.665
+            },
+            "composite": {
+                "totals": 1,
+                "totalScore": 0.666,
+                "avgScore": 0.666
+            },
+            "flower": {
+                "totals": 1,
+                "totalScore": 0.669,
+                "avgScore": 0.669
+            },
+            "flowering plant": {
+                "totals": 1,
+                "totalScore": 0.669,
+                "avgScore": 0.669
+            },
+            "plant": {
+                "totals": 2,
+                "totalScore": 1.182,
+                "avgScore": 0.591
+            },
+            "pinata (plaything)": {
+                "totals": 1,
+                "totalScore": 0.581,
+                "avgScore": 0.581
+            },
+            "granny knot": {
+                "totals": 1,
+                "totalScore": 0.551,
+                "avgScore": 0.551
+            },
+            "knot": {
+                "totals": 1,
+                "totalScore": 0.552,
+                "avgScore": 0.552
+            },
+            "eye mask": {
+                "totals": 1,
+                "totalScore": 0.524,
+                "avgScore": 0.524
+            },
+            "mask": {
+                "totals": 1,
+                "totalScore": 0.528,
+                "avgScore": 0.528
+            },
+            "plush (fabric for toys)": {
+                "totals": 1,
+                "totalScore": 0.505,
+                "avgScore": 0.505
+            },
+            "fabric": {
+                "totals": 4,
+                "totalScore": 2.2,
+                "avgScore": 0.55
+            },
+            "ocardina": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "musical instrument": {
+                "totals": 2,
+                "totalScore": 1.099,
+                "avgScore": 0.5495
+            },
+            "pale yellow color": {
+                "totals": 2,
+                "totalScore": 1.9,
+                "avgScore": 0.95
+            },
+            "yellow color": {
+                "totals": 1,
+                "totalScore": 0.686,
+                "avgScore": 0.686
+            },
+            "spectrum of colors": {
+                "totals": 2,
+                "totalScore": 1.189,
+                "avgScore": 0.5945
+            },
+            "paramecium (organism)": {
+                "totals": 1,
+                "totalScore": 0.533,
+                "avgScore": 0.533
+            },
+            "lithosphere": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "nature": {
+                "totals": 2,
+                "totalScore": 1.0310000000000001,
+                "avgScore": 0.5155000000000001
+            },
+            "cell": {
+                "totals": 1,
+                "totalScore": 0.596,
+                "avgScore": 0.596
+            },
+            "purple color": {
+                "totals": 2,
+                "totalScore": 1.467,
+                "avgScore": 0.7335
+            },
+            "claw": {
+                "totals": 1,
+                "totalScore": 0.915,
+                "avgScore": 0.915
+            },
+            "mechanical device": {
+                "totals": 1,
+                "totalScore": 0.915,
+                "avgScore": 0.915
+            },
+            "potty seat": {
+                "totals": 1,
+                "totalScore": 0.583,
+                "avgScore": 0.583
+            },
+            "horseshoe": {
+                "totals": 1,
+                "totalScore": 0.55,
+                "avgScore": 0.55
+            },
+            "batting helmet": {
+                "totals": 1,
+                "totalScore": 0.534,
+                "avgScore": 0.534
+            },
+            "helmet": {
+                "totals": 1,
+                "totalScore": 0.535,
+                "avgScore": 0.535
+            },
+            "headdress": {
+                "totals": 2,
+                "totalScore": 1.429,
+                "avgScore": 0.7145
+            },
+            "mouthpiece": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "purplish blue color": {
+                "totals": 2,
+                "totalScore": 1.861,
+                "avgScore": 0.9305
+            },
+            "ultramarine color": {
+                "totals": 2,
+                "totalScore": 1.571,
+                "avgScore": 0.7855
+            },
+            "atoll": {
+                "totals": 1,
+                "totalScore": 0.531,
+                "avgScore": 0.531
+            },
+            "ridge": {
+                "totals": 1,
+                "totalScore": 0.531,
+                "avgScore": 0.531
+            },
+            "blue color": {
+                "totals": 1,
+                "totalScore": 0.929,
+                "avgScore": 0.929
+            },
+            "coonskin cap": {
+                "totals": 1,
+                "totalScore": 0.894,
+                "avgScore": 0.894
+            },
+            "cap": {
+                "totals": 1,
+                "totalScore": 0.894,
+                "avgScore": 0.894
+            },
+            "mohair fabric": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "clothing": {
+                "totals": 2,
+                "totalScore": 1.373,
+                "avgScore": 0.6865
+            },
+            "greenish blue color": {
+                "totals": 1,
+                "totalScore": 0.709,
+                "avgScore": 0.709
+            },
+            "cellulose tape": {
+                "totals": 1,
+                "totalScore": 0.769,
+                "avgScore": 0.769
+            },
+            "bedpan": {
+                "totals": 1,
+                "totalScore": 0.764,
+                "avgScore": 0.764
+            },
+            "bell push (button)": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "push button": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "electric switch": {
+                "totals": 1,
+                "totalScore": 0.501,
+                "avgScore": 0.501
+            },
+            "controller": {
+                "totals": 1,
+                "totalScore": 0.501,
+                "avgScore": 0.501
+            },
+            "lamp": {
+                "totals": 1,
+                "totalScore": 0.585,
+                "avgScore": 0.585
+            },
+            "pave (jewelery)": {
+                "totals": 1,
+                "totalScore": 0.651,
+                "avgScore": 0.651
+            },
+            "framework": {
+                "totals": 1,
+                "totalScore": 0.651,
+                "avgScore": 0.651
+            },
+            "supporting structure": {
+                "totals": 1,
+                "totalScore": 0.651,
+                "avgScore": 0.651
+            },
+            "pretzel": {
+                "totals": 1,
+                "totalScore": 0.626,
+                "avgScore": 0.626
+            },
+            "cracker": {
+                "totals": 1,
+                "totalScore": 0.626,
+                "avgScore": 0.626
+            },
+            "bread": {
+                "totals": 1,
+                "totalScore": 0.626,
+                "avgScore": 0.626
+            },
+            "food product": {
+                "totals": 1,
+                "totalScore": 0.685,
+                "avgScore": 0.685
+            },
+            "openwork": {
+                "totals": 1,
+                "totalScore": 0.512,
+                "avgScore": 0.512
+            },
+            "sesame seed": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "food seasoning": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "food ingredient": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "snake": {
+                "totals": 1,
+                "totalScore": 0.596,
+                "avgScore": 0.596
+            },
+            "ivory color": {
+                "totals": 2,
+                "totalScore": 1.654,
+                "avgScore": 0.827
+            },
+            "pink color": {
+                "totals": 2,
+                "totalScore": 1.337,
+                "avgScore": 0.6685
+            },
+            "reddish orange color": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "chain wrench": {
+                "totals": 1,
+                "totalScore": 0.928,
+                "avgScore": 0.928
+            },
+            "adjustable wrench": {
+                "totals": 1,
+                "totalScore": 0.928,
+                "avgScore": 0.928
+            },
+            "wrench": {
+                "totals": 2,
+                "totalScore": 1.7080000000000002,
+                "avgScore": 0.8540000000000001
+            },
+            "gray color": {
+                "totals": 1,
+                "totalScore": 0.871,
+                "avgScore": 0.871
+            },
+            "window": {
+                "totals": 1,
+                "totalScore": 0.611,
+                "avgScore": 0.611
+            },
+            "video display": {
+                "totals": 1,
+                "totalScore": 0.611,
+                "avgScore": 0.611
+            },
+            "electronic device": {
+                "totals": 1,
+                "totalScore": 0.611,
+                "avgScore": 0.611
+            },
+            "angle of refraction": {
+                "totals": 1,
+                "totalScore": 0.508,
+                "avgScore": 0.508
+            },
+            "dialog box": {
+                "totals": 1,
+                "totalScore": 0.501,
+                "avgScore": 0.501
+            },
+            "autoradiograph": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "radiogram": {
+                "totals": 1,
+                "totalScore": 0.501,
+                "avgScore": 0.501
+            },
+            "computer": {
+                "totals": 1,
+                "totalScore": 0.599,
+                "avgScore": 0.599
+            },
+            "instrument": {
+                "totals": 2,
+                "totalScore": 1.601,
+                "avgScore": 0.8005
+            },
+            "Allen wrench": {
+                "totals": 1,
+                "totalScore": 0.78,
+                "avgScore": 0.78
+            },
+            "hacksaw": {
+                "totals": 1,
+                "totalScore": 0.774,
+                "avgScore": 0.774
+            },
+            "bracteole": {
+                "totals": 1,
+                "totalScore": 0.513,
+                "avgScore": 0.513
+            },
+            "spirillum (bacteria)": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "finger plate": {
+                "totals": 1,
+                "totalScore": 0.793,
+                "avgScore": 0.793
+            },
+            "protective covering": {
+                "totals": 1,
+                "totalScore": 0.793,
+                "avgScore": 0.793
+            },
+            "shelf bracket": {
+                "totals": 1,
+                "totalScore": 0.688,
+                "avgScore": 0.688
+            },
+            "wall bracket": {
+                "totals": 1,
+                "totalScore": 0.689,
+                "avgScore": 0.689
+            },
+            "support": {
+                "totals": 1,
+                "totalScore": 0.689,
+                "avgScore": 0.689
+            },
+            "gasket": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "disk": {
+                "totals": 1,
+                "totalScore": 0.59,
+                "avgScore": 0.59
+            },
+            "beige color": {
+                "totals": 1,
+                "totalScore": 0.509,
+                "avgScore": 0.509
+            }
+        },
+        "commonTags": [
+            {
+                "name": "boomerang",
+                "avgScore": 0.6172000000000001
+            },
+            {
+                "name": "weapon",
+                "avgScore": 0.6172000000000001
+            },
+            {
+                "name": "S-shape",
+                "avgScore": 0.5768
+            },
+            {
+                "name": "photo with lines",
+                "avgScore": 0.6893333333333334
+            },
+            {
+                "name": "tool",
+                "avgScore": 0.759
+            },
+            {
+                "name": "crescent shaped",
+                "avgScore": 0.7431428571428571
+            },
+            {
+                "name": "microorganism",
+                "avgScore": 0.5656000000000001
+            },
+            {
+                "name": "worm",
+                "avgScore": 0.6704000000000001
+            },
+            {
+                "name": "figure",
+                "avgScore": 0.6528333333333334
+            }
+        ]
+    },
+    "three": {
+        "tags": {
+            "finger plate": {
+                "totals": 3,
+                "totalScore": 2.177,
+                "avgScore": 0.7256666666666667
+            },
+            "protective covering": {
+                "totals": 6,
+                "totalScore": 4.340000000000001,
+                "avgScore": 0.7233333333333335
+            },
+            "fleur-de-lis (badge)": {
+                "totals": 2,
+                "totalScore": 1.04,
+                "avgScore": 0.52
+            },
+            "keyhole": {
+                "totals": 3,
+                "totalScore": 2.003,
+                "avgScore": 0.6676666666666667
+            },
+            "triskele": {
+                "totals": 4,
+                "totalScore": 2.625,
+                "avgScore": 0.65625
+            },
+            "photo with lines": {
+                "totals": 11,
+                "totalScore": 7.781,
+                "avgScore": 0.7073636363636363
+            },
+            "reddish orange color": {
+                "totals": 6,
+                "totalScore": 4.53,
+                "avgScore": 0.755
+            },
+            "alizarine red color": {
+                "totals": 4,
+                "totalScore": 2.565,
+                "avgScore": 0.64125
+            },
+            "night-light": {
+                "totals": 1,
+                "totalScore": 0.883,
+                "avgScore": 0.883
+            },
+            "light source": {
+                "totals": 1,
+                "totalScore": 0.931,
+                "avgScore": 0.931
+            },
+            "sconce (lighting)": {
+                "totals": 1,
+                "totalScore": 0.54,
+                "avgScore": 0.54
+            },
+            "neon lamp": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "lamp": {
+                "totals": 2,
+                "totalScore": 1.292,
+                "avgScore": 0.646
+            },
+            "primary color for pigments": {
+                "totals": 1,
+                "totalScore": 0.785,
+                "avgScore": 0.785
+            },
+            "roundel": {
+                "totals": 3,
+                "totalScore": 2.074,
+                "avgScore": 0.6913333333333332
+            },
+            "plate": {
+                "totals": 3,
+                "totalScore": 2.152,
+                "avgScore": 0.7173333333333334
+            },
+            "shield": {
+                "totals": 3,
+                "totalScore": 2.163,
+                "avgScore": 0.721
+            },
+            "crescent shaped": {
+                "totals": 2,
+                "totalScore": 1.2879999999999998,
+                "avgScore": 0.6439999999999999
+            },
+            "S-shape": {
+                "totals": 8,
+                "totalScore": 5.856000000000001,
+                "avgScore": 0.7320000000000001
+            },
+            "primary color for light": {
+                "totals": 2,
+                "totalScore": 1,
+                "avgScore": 0.5
+            },
+            "ultramarine color": {
+                "totals": 1,
+                "totalScore": 0.964,
+                "avgScore": 0.964
+            },
+            "whip": {
+                "totals": 3,
+                "totalScore": 1.9160000000000001,
+                "avgScore": 0.6386666666666667
+            },
+            "C-clamp": {
+                "totals": 1,
+                "totalScore": 0.679,
+                "avgScore": 0.679
+            },
+            "chain wrench": {
+                "totals": 2,
+                "totalScore": 1.077,
+                "avgScore": 0.5385
+            },
+            "adjustable wrench": {
+                "totals": 2,
+                "totalScore": 1.077,
+                "avgScore": 0.5385
+            },
+            "wrench": {
+                "totals": 2,
+                "totalScore": 1.077,
+                "avgScore": 0.5385
+            },
+            "tool": {
+                "totals": 5,
+                "totalScore": 3.059,
+                "avgScore": 0.6118
+            },
+            "instrument": {
+                "totals": 1,
+                "totalScore": 0.801,
+                "avgScore": 0.801
+            },
+            "emerald color": {
+                "totals": 3,
+                "totalScore": 2.508,
+                "avgScore": 0.836
+            },
+            "figure": {
+                "totals": 4,
+                "totalScore": 2.54,
+                "avgScore": 0.635
+            },
+            "claw": {
+                "totals": 6,
+                "totalScore": 3.861,
+                "avgScore": 0.6435000000000001
+            },
+            "mechanical device": {
+                "totals": 6,
+                "totalScore": 3.861,
+                "avgScore": 0.6435000000000001
+            },
+            "hook": {
+                "totals": 6,
+                "totalScore": 3.255,
+                "avgScore": 0.5425
+            },
+            "mechanism": {
+                "totals": 5,
+                "totalScore": 3.394,
+                "avgScore": 0.6788000000000001
+            },
+            "eye mask": {
+                "totals": 1,
+                "totalScore": 0.766,
+                "avgScore": 0.766
+            },
+            "mask": {
+                "totals": 1,
+                "totalScore": 0.803,
+                "avgScore": 0.803
+            },
+            "cellulose tape": {
+                "totals": 1,
+                "totalScore": 0.721,
+                "avgScore": 0.721
+            },
+            "mouthpiece": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "sports equipment": {
+                "totals": 1,
+                "totalScore": 0.799,
+                "avgScore": 0.799
+            },
+            "jade green color": {
+                "totals": 1,
+                "totalScore": 1,
+                "avgScore": 1
+            },
+            "mouth harp": {
+                "totals": 1,
+                "totalScore": 0.915,
+                "avgScore": 0.915
+            },
+            "musical instrument": {
+                "totals": 1,
+                "totalScore": 0.915,
+                "avgScore": 0.915
+            },
+            "disk": {
+                "totals": 2,
+                "totalScore": 1.596,
+                "avgScore": 0.798
+            },
+            "olive green color": {
+                "totals": 1,
+                "totalScore": 0.89,
+                "avgScore": 0.89
+            },
+            "potty seat": {
+                "totals": 1,
+                "totalScore": 0.754,
+                "avgScore": 0.754
+            },
+            "reading lamp": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "furniture": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "source of illumination": {
+                "totals": 1,
+                "totalScore": 0.6,
+                "avgScore": 0.6
+            },
+            "pale yellow color": {
+                "totals": 1,
+                "totalScore": 0.907,
+                "avgScore": 0.907
+            },
+            "lemon yellow color": {
+                "totals": 2,
+                "totalScore": 1.6560000000000001,
+                "avgScore": 0.8280000000000001
+            },
+            "O ring": {
+                "totals": 1,
+                "totalScore": 0.694,
+                "avgScore": 0.694
+            },
+            "fastener": {
+                "totals": 4,
+                "totalScore": 2.399,
+                "avgScore": 0.59975
+            },
+            "restraint (chains)": {
+                "totals": 4,
+                "totalScore": 2.399,
+                "avgScore": 0.59975
+            },
+            "study": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "electrical device": {
+                "totals": 1,
+                "totalScore": 0.599,
+                "avgScore": 0.599
+            },
+            "worm": {
+                "totals": 3,
+                "totalScore": 2.184,
+                "avgScore": 0.7280000000000001
+            },
+            "rose color": {
+                "totals": 1,
+                "totalScore": 0.858,
+                "avgScore": 0.858
+            },
+            "ivory color": {
+                "totals": 4,
+                "totalScore": 2.759,
+                "avgScore": 0.68975
+            },
+            "L-plate (learners plate for car)": {
+                "totals": 1,
+                "totalScore": 0.989,
+                "avgScore": 0.989
+            },
+            "shepherd's crook a (stick)": {
+                "totals": 1,
+                "totalScore": 0.669,
+                "avgScore": 0.669
+            },
+            "shackle": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "bar": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "stick": {
+                "totals": 1,
+                "totalScore": 0.601,
+                "avgScore": 0.601
+            },
+            "alabaster color": {
+                "totals": 1,
+                "totalScore": 0.816,
+                "avgScore": 0.816
+            },
+            "doorplate": {
+                "totals": 1,
+                "totalScore": 0.534,
+                "avgScore": 0.534
+            },
+            "hockey puck": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "circle": {
+                "totals": 3,
+                "totalScore": 1.6469999999999998,
+                "avgScore": 0.5489999999999999
+            },
+            "recording": {
+                "totals": 1,
+                "totalScore": 0.798,
+                "avgScore": 0.798
+            },
+            "push button": {
+                "totals": 1,
+                "totalScore": 0.795,
+                "avgScore": 0.795
+            },
+            "memory device": {
+                "totals": 1,
+                "totalScore": 0.792,
+                "avgScore": 0.792
+            },
+            "light brown color": {
+                "totals": 1,
+                "totalScore": 0.772,
+                "avgScore": 0.772
+            },
+            "beige color": {
+                "totals": 1,
+                "totalScore": 0.678,
+                "avgScore": 0.678
+            },
+            "cup hook": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "microorganism": {
+                "totals": 3,
+                "totalScore": 1.99,
+                "avgScore": 0.6633333333333333
+            },
+            "purple color": {
+                "totals": 1,
+                "totalScore": 1,
+                "avgScore": 1
+            },
+            "Gordian knot": {
+                "totals": 1,
+                "totalScore": 0.532,
+                "avgScore": 0.532
+            },
+            "knot": {
+                "totals": 2,
+                "totalScore": 1.125,
+                "avgScore": 0.5625
+            },
+            "reddish brown color": {
+                "totals": 1,
+                "totalScore": 0.98,
+                "avgScore": 0.98
+            },
+            "shelf bracket": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "wall bracket": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "support": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "coal black color": {
+                "totals": 4,
+                "totalScore": 3.764,
+                "avgScore": 0.941
+            },
+            "round shape": {
+                "totals": 1,
+                "totalScore": 0.729,
+                "avgScore": 0.729
+            },
+            "blood agar": {
+                "totals": 1,
+                "totalScore": 0.624,
+                "avgScore": 0.624
+            },
+            "food": {
+                "totals": 1,
+                "totalScore": 0.624,
+                "avgScore": 0.624
+            },
+            "arabesque (ornament)": {
+                "totals": 3,
+                "totalScore": 1.812,
+                "avgScore": 0.604
+            },
+            "lines": {
+                "totals": 2,
+                "totalScore": 1.248,
+                "avgScore": 0.624
+            },
+            "autoradiograph": {
+                "totals": 2,
+                "totalScore": 1,
+                "avgScore": 0.5
+            },
+            "radiogram": {
+                "totals": 2,
+                "totalScore": 1.002,
+                "avgScore": 0.501
+            },
+            "maroon color": {
+                "totals": 2,
+                "totalScore": 1.5110000000000001,
+                "avgScore": 0.7555000000000001
+            },
+            "cookie cutter": {
+                "totals": 1,
+                "totalScore": 0.714,
+                "avgScore": 0.714
+            },
+            "utensil": {
+                "totals": 1,
+                "totalScore": 0.714,
+                "avgScore": 0.714
+            },
+            "yellow color": {
+                "totals": 1,
+                "totalScore": 0.846,
+                "avgScore": 0.846
+            },
+            "lavaliere (jewelled pendent)": {
+                "totals": 1,
+                "totalScore": 0.665,
+                "avgScore": 0.665
+            },
+            "electrical connector": {
+                "totals": 1,
+                "totalScore": 0.597,
+                "avgScore": 0.597
+            },
+            "gray color": {
+                "totals": 1,
+                "totalScore": 0.919,
+                "avgScore": 0.919
+            }
+        },
+        "commonTags": [
+            {
+                "name": "protective covering",
+                "avgScore": 0.7233333333333335
+            },
+            {
+                "name": "photo with lines",
+                "avgScore": 0.7073636363636363
+            },
+            {
+                "name": "S-shape",
+                "avgScore": 0.7320000000000001
+            },
+            {
+                "name": "tool",
+                "avgScore": 0.6118
+            },
+            {
+                "name": "claw",
+                "avgScore": 0.6435000000000001
+            },
+            {
+                "name": "mechanical device",
+                "avgScore": 0.6435000000000001
+            },
+            {
+                "name": "mechanism",
+                "avgScore": 0.6788000000000001
+            }
+        ]
+    },
+    "four": {
+        "tags": {
+            "hypotenuse": {
+                "totals": 10,
+                "totalScore": 6.832000000000001,
+                "avgScore": 0.6832
+            },
+            "figure": {
+                "totals": 18,
+                "totalScore": 14.069999999999999,
+                "avgScore": 0.7816666666666666
+            },
+            "carpenter's square": {
+                "totals": 4,
+                "totalScore": 2.511,
+                "avgScore": 0.62775
+            },
+            "square": {
+                "totals": 8,
+                "totalScore": 6.055,
+                "avgScore": 0.756875
+            },
+            "tool": {
+                "totals": 14,
+                "totalScore": 10.429,
+                "avgScore": 0.7449285714285715
+            },
+            "triangle": {
+                "totals": 11,
+                "totalScore": 7.781,
+                "avgScore": 0.7073636363636363
+            },
+            "polygon": {
+                "totals": 14,
+                "totalScore": 9.94,
+                "avgScore": 0.71
+            },
+            "right triangle": {
+                "totals": 3,
+                "totalScore": 1.679,
+                "avgScore": 0.5596666666666666
+            },
+            "coal black color": {
+                "totals": 8,
+                "totalScore": 6.9190000000000005,
+                "avgScore": 0.8648750000000001
+            },
+            "phonograph needle": {
+                "totals": 2,
+                "totalScore": 1.204,
+                "avgScore": 0.602
+            },
+            "earplug": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "plug": {
+                "totals": 1,
+                "totalScore": 0.504,
+                "avgScore": 0.504
+            },
+            "reddish orange color": {
+                "totals": 5,
+                "totalScore": 4.178,
+                "avgScore": 0.8356
+            },
+            "yellow color": {
+                "totals": 1,
+                "totalScore": 0.752,
+                "avgScore": 0.752
+            },
+            "frame": {
+                "totals": 1,
+                "totalScore": 0.542,
+                "avgScore": 0.542
+            },
+            "framework": {
+                "totals": 1,
+                "totalScore": 0.542,
+                "avgScore": 0.542
+            },
+            "supporting structure": {
+                "totals": 1,
+                "totalScore": 0.543,
+                "avgScore": 0.543
+            },
+            "obtuse triangle": {
+                "totals": 2,
+                "totalScore": 1.0990000000000002,
+                "avgScore": 0.5495000000000001
+            },
+            "concave polygon": {
+                "totals": 3,
+                "totalScore": 1.718,
+                "avgScore": 0.5726666666666667
+            },
+            "gray color": {
+                "totals": 3,
+                "totalScore": 2.375,
+                "avgScore": 0.7916666666666666
+            },
+            "lines": {
+                "totals": 1,
+                "totalScore": 0.77,
+                "avgScore": 0.77
+            },
+            "study": {
+                "totals": 1,
+                "totalScore": 0.536,
+                "avgScore": 0.536
+            },
+            "olive green color": {
+                "totals": 1,
+                "totalScore": 0.506,
+                "avgScore": 0.506
+            },
+            "convex polygon": {
+                "totals": 1,
+                "totalScore": 0.74,
+                "avgScore": 0.74
+            },
+            "spectrum of colors": {
+                "totals": 1,
+                "totalScore": 0.568,
+                "avgScore": 0.568
+            },
+            "coordinate axis": {
+                "totals": 2,
+                "totalScore": 1.2810000000000001,
+                "avgScore": 0.6405000000000001
+            },
+            "emerald color": {
+                "totals": 3,
+                "totalScore": 2.4930000000000003,
+                "avgScore": 0.8310000000000001
+            },
+            "angle of refraction": {
+                "totals": 1,
+                "totalScore": 0.668,
+                "avgScore": 0.668
+            },
+            "acute triangle": {
+                "totals": 2,
+                "totalScore": 1.054,
+                "avgScore": 0.527
+            },
+            "amorphous shape": {
+                "totals": 1,
+                "totalScore": 0.6,
+                "avgScore": 0.6
+            },
+            "lifting device": {
+                "totals": 1,
+                "totalScore": 0.584,
+                "avgScore": 0.584
+            },
+            "purple color": {
+                "totals": 1,
+                "totalScore": 0.731,
+                "avgScore": 0.731
+            },
+            "stretcher": {
+                "totals": 1,
+                "totalScore": 0.604,
+                "avgScore": 0.604
+            },
+            "dishtowel": {
+                "totals": 1,
+                "totalScore": 0.561,
+                "avgScore": 0.561
+            },
+            "towel": {
+                "totals": 1,
+                "totalScore": 0.662,
+                "avgScore": 0.662
+            },
+            "fabric": {
+                "totals": 1,
+                "totalScore": 0.663,
+                "avgScore": 0.663
+            },
+            "primary color for light": {
+                "totals": 1,
+                "totalScore": 0.529,
+                "avgScore": 0.529
+            },
+            "coffin": {
+                "totals": 1,
+                "totalScore": 0.515,
+                "avgScore": 0.515
+            },
+            "box": {
+                "totals": 1,
+                "totalScore": 0.516,
+                "avgScore": 0.516
+            },
+            "gym mat": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "watercraft": {
+                "totals": 1,
+                "totalScore": 0.599,
+                "avgScore": 0.599
+            },
+            "blinker": {
+                "totals": 1,
+                "totalScore": 0.609,
+                "avgScore": 0.609
+            },
+            "light source": {
+                "totals": 1,
+                "totalScore": 0.692,
+                "avgScore": 0.692
+            },
+            "quartz lamp": {
+                "totals": 1,
+                "totalScore": 0.53,
+                "avgScore": 0.53
+            },
+            "lamp": {
+                "totals": 2,
+                "totalScore": 1.125,
+                "avgScore": 0.5625
+            },
+            "jalousie (shutter)": {
+                "totals": 1,
+                "totalScore": 0.504,
+                "avgScore": 0.504
+            },
+            "screen": {
+                "totals": 1,
+                "totalScore": 0.508,
+                "avgScore": 0.508
+            },
+            "protective covering": {
+                "totals": 1,
+                "totalScore": 0.508,
+                "avgScore": 0.508
+            },
+            "taillight": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "source of illumination": {
+                "totals": 1,
+                "totalScore": 0.601,
+                "avgScore": 0.601
+            },
+            "bevel square": {
+                "totals": 2,
+                "totalScore": 1.522,
+                "avgScore": 0.761
+            },
+            "T-square": {
+                "totals": 2,
+                "totalScore": 1,
+                "avgScore": 0.5
+            },
+            "drafting instrument": {
+                "totals": 2,
+                "totalScore": 1.002,
+                "avgScore": 0.501
+            },
+            "charcoal color": {
+                "totals": 3,
+                "totalScore": 2.589,
+                "avgScore": 0.863
+            },
+            "scalene triangle": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "faucet": {
+                "totals": 1,
+                "totalScore": 0.643,
+                "avgScore": 0.643
+            },
+            "controller": {
+                "totals": 1,
+                "totalScore": 0.643,
+                "avgScore": 0.643
+            },
+            "chinning bar": {
+                "totals": 1,
+                "totalScore": 0.625,
+                "avgScore": 0.625
+            },
+            "bar": {
+                "totals": 1,
+                "totalScore": 0.625,
+                "avgScore": 0.625
+            },
+            "backboard": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "support": {
+                "totals": 2,
+                "totalScore": 1.046,
+                "avgScore": 0.523
+            },
+            "reddish brown color": {
+                "totals": 1,
+                "totalScore": 0.732,
+                "avgScore": 0.732
+            },
+            "steel blue color": {
+                "totals": 1,
+                "totalScore": 0.671,
+                "avgScore": 0.671
+            },
+            "try square": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "measuring instrument": {
+                "totals": 1,
+                "totalScore": 0.787,
+                "avgScore": 0.787
+            },
+            "barrette (hair pin)": {
+                "totals": 1,
+                "totalScore": 0.533,
+                "avgScore": 0.533
+            },
+            "pin": {
+                "totals": 1,
+                "totalScore": 0.533,
+                "avgScore": 0.533
+            },
+            "fastener": {
+                "totals": 1,
+                "totalScore": 0.534,
+                "avgScore": 0.534
+            },
+            "restraint (chains)": {
+                "totals": 1,
+                "totalScore": 0.534,
+                "avgScore": 0.534
+            },
+            "gusset plate": {
+                "totals": 2,
+                "totalScore": 1.145,
+                "avgScore": 0.5725
+            },
+            "brace": {
+                "totals": 2,
+                "totalScore": 1.145,
+                "avgScore": 0.5725
+            },
+            "tetraskelion": {
+                "totals": 4,
+                "totalScore": 2.394,
+                "avgScore": 0.5985
+            },
+            "religious symbol": {
+                "totals": 1,
+                "totalScore": 0.754,
+                "avgScore": 0.754
+            },
+            "round shape": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "Indian red color": {
+                "totals": 1,
+                "totalScore": 0.836,
+                "avgScore": 0.836
+            },
+            "cheddar pink": {
+                "totals": 1,
+                "totalScore": 0.602,
+                "avgScore": 0.602
+            },
+            "pink": {
+                "totals": 1,
+                "totalScore": 0.79,
+                "avgScore": 0.79
+            },
+            "flower": {
+                "totals": 1,
+                "totalScore": 0.793,
+                "avgScore": 0.793
+            },
+            "flowering plant": {
+                "totals": 1,
+                "totalScore": 0.794,
+                "avgScore": 0.794
+            },
+            "plant": {
+                "totals": 1,
+                "totalScore": 0.833,
+                "avgScore": 0.833
+            },
+            "button pink": {
+                "totals": 1,
+                "totalScore": 0.57,
+                "avgScore": 0.57
+            },
+            "sweet William": {
+                "totals": 1,
+                "totalScore": 0.508,
+                "avgScore": 0.508
+            },
+            "carnation color": {
+                "totals": 1,
+                "totalScore": 0.508,
+                "avgScore": 0.508
+            },
+            "crown of thorns": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "microorganism": {
+                "totals": 1,
+                "totalScore": 0.797,
+                "avgScore": 0.797
+            },
+            "claret red color": {
+                "totals": 1,
+                "totalScore": 0.685,
+                "avgScore": 0.685
+            },
+            "octagon": {
+                "totals": 1,
+                "totalScore": 0.693,
+                "avgScore": 0.693
+            },
+            "chair": {
+                "totals": 1,
+                "totalScore": 0.612,
+                "avgScore": 0.612
+            },
+            "seat": {
+                "totals": 1,
+                "totalScore": 0.658,
+                "avgScore": 0.658
+            },
+            "furniture": {
+                "totals": 1,
+                "totalScore": 0.664,
+                "avgScore": 0.664
+            },
+            "lantern": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "dark red color": {
+                "totals": 1,
+                "totalScore": 0.853,
+                "avgScore": 0.853
+            },
+            "sanguine (red) color": {
+                "totals": 1,
+                "totalScore": 0.593,
+                "avgScore": 0.593
+            },
+            "star": {
+                "totals": 2,
+                "totalScore": 1,
+                "avgScore": 0.5
+            },
+            "ultramarine color": {
+                "totals": 1,
+                "totalScore": 1,
+                "avgScore": 1
+            },
+            "alizarine red color": {
+                "totals": 1,
+                "totalScore": 0.532,
+                "avgScore": 0.532
+            },
+            "shelf bracket": {
+                "totals": 1,
+                "totalScore": 0.538,
+                "avgScore": 0.538
+            },
+            "wall bracket": {
+                "totals": 1,
+                "totalScore": 0.544,
+                "avgScore": 0.544
+            },
+            "dinner bell": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "bell": {
+                "totals": 1,
+                "totalScore": 0.501,
+                "avgScore": 0.501
+            },
+            "acoustic device": {
+                "totals": 1,
+                "totalScore": 0.501,
+                "avgScore": 0.501
+            },
+            "jotter (notebook)": {
+                "totals": 1,
+                "totalScore": 0.542,
+                "avgScore": 0.542
+            },
+            "green color": {
+                "totals": 1,
+                "totalScore": 0.718,
+                "avgScore": 0.718
+            },
+            "bottle green color": {
+                "totals": 1,
+                "totalScore": 0.501,
+                "avgScore": 0.501
+            },
+            "jade green color": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            }
+        },
+        "commonTags": [
+            {
+                "name": "hypotenuse",
+                "avgScore": 0.6832
+            },
+            {
+                "name": "figure",
+                "avgScore": 0.7816666666666666
+            },
+            {
+                "name": "square",
+                "avgScore": 0.756875
+            },
+            {
+                "name": "tool",
+                "avgScore": 0.7449285714285715
+            },
+            {
+                "name": "triangle",
+                "avgScore": 0.7073636363636363
+            },
+            {
+                "name": "polygon",
+                "avgScore": 0.71
+            }
+        ]
+    },
+    "five": {
+        "tags": {
+            "night-light": {
+                "totals": 2,
+                "totalScore": 1.5390000000000001,
+                "avgScore": 0.7695000000000001
+            },
+            "light source": {
+                "totals": 3,
+                "totalScore": 2.354,
+                "avgScore": 0.7846666666666667
+            },
+            "neon lamp": {
+                "totals": 1,
+                "totalScore": 0.581,
+                "avgScore": 0.581
+            },
+            "lamp": {
+                "totals": 1,
+                "totalScore": 0.596,
+                "avgScore": 0.596
+            },
+            "protractor": {
+                "totals": 1,
+                "totalScore": 0.524,
+                "avgScore": 0.524
+            },
+            "drafting instrument": {
+                "totals": 1,
+                "totalScore": 0.524,
+                "avgScore": 0.524
+            },
+            "sconce (lighting)": {
+                "totals": 2,
+                "totalScore": 1.264,
+                "avgScore": 0.632
+            },
+            "electrical device": {
+                "totals": 1,
+                "totalScore": 0.795,
+                "avgScore": 0.795
+            },
+            "emerald color": {
+                "totals": 6,
+                "totalScore": 4.767,
+                "avgScore": 0.7945000000000001
+            },
+            "cellulose tape": {
+                "totals": 2,
+                "totalScore": 1.616,
+                "avgScore": 0.808
+            },
+            "potty seat": {
+                "totals": 1,
+                "totalScore": 0.666,
+                "avgScore": 0.666
+            },
+            "mouthpiece": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "pale yellow color": {
+                "totals": 2,
+                "totalScore": 1.637,
+                "avgScore": 0.8185
+            },
+            "lemon yellow color": {
+                "totals": 1,
+                "totalScore": 0.697,
+                "avgScore": 0.697
+            },
+            "watch chain": {
+                "totals": 1,
+                "totalScore": 0.576,
+                "avgScore": 0.576
+            },
+            "chain": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "mechanism": {
+                "totals": 4,
+                "totalScore": 2.9859999999999998,
+                "avgScore": 0.7464999999999999
+            },
+            "tool": {
+                "totals": 10,
+                "totalScore": 6.981000000000001,
+                "avgScore": 0.6981
+            },
+            "electrical connector": {
+                "totals": 2,
+                "totalScore": 1.385,
+                "avgScore": 0.6925
+            },
+            "gray color": {
+                "totals": 5,
+                "totalScore": 3.7779999999999996,
+                "avgScore": 0.7555999999999999
+            },
+            "toilet seat": {
+                "totals": 1,
+                "totalScore": 0.896,
+                "avgScore": 0.896
+            },
+            "seat": {
+                "totals": 1,
+                "totalScore": 0.897,
+                "avgScore": 0.897
+            },
+            "furniture": {
+                "totals": 1,
+                "totalScore": 0.897,
+                "avgScore": 0.897
+            },
+            "crescent shaped": {
+                "totals": 3,
+                "totalScore": 1.991,
+                "avgScore": 0.6636666666666667
+            },
+            "photo with lines": {
+                "totals": 9,
+                "totalScore": 6.389,
+                "avgScore": 0.7098888888888889
+            },
+            "ultramarine color": {
+                "totals": 1,
+                "totalScore": 1,
+                "avgScore": 1
+            },
+            "whip": {
+                "totals": 3,
+                "totalScore": 2.363,
+                "avgScore": 0.7876666666666666
+            },
+            "knot": {
+                "totals": 2,
+                "totalScore": 1.471,
+                "avgScore": 0.7355
+            },
+            "ivory color": {
+                "totals": 4,
+                "totalScore": 3.132,
+                "avgScore": 0.783
+            },
+            "circle": {
+                "totals": 3,
+                "totalScore": 1.8,
+                "avgScore": 0.6
+            },
+            "figure": {
+                "totals": 6,
+                "totalScore": 3.99,
+                "avgScore": 0.665
+            },
+            "magnetic disk": {
+                "totals": 1,
+                "totalScore": 0.565,
+                "avgScore": 0.565
+            },
+            "memory device": {
+                "totals": 2,
+                "totalScore": 1.1309999999999998,
+                "avgScore": 0.5654999999999999
+            },
+            "record sleeve": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "sleeve": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "round shape": {
+                "totals": 2,
+                "totalScore": 1.092,
+                "avgScore": 0.546
+            },
+            "coal black color": {
+                "totals": 7,
+                "totalScore": 6.395,
+                "avgScore": 0.9135714285714285
+            },
+            "black color": {
+                "totals": 1,
+                "totalScore": 0.655,
+                "avgScore": 0.655
+            },
+            "lines": {
+                "totals": 1,
+                "totalScore": 0.692,
+                "avgScore": 0.692
+            },
+            "dialog box": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "window": {
+                "totals": 1,
+                "totalScore": 0.583,
+                "avgScore": 0.583
+            },
+            "video display": {
+                "totals": 1,
+                "totalScore": 0.583,
+                "avgScore": 0.583
+            },
+            "electronic device": {
+                "totals": 1,
+                "totalScore": 0.583,
+                "avgScore": 0.583
+            },
+            "computer": {
+                "totals": 1,
+                "totalScore": 0.594,
+                "avgScore": 0.594
+            },
+            "towel rail": {
+                "totals": 1,
+                "totalScore": 0.751,
+                "avgScore": 0.751
+            },
+            "bar": {
+                "totals": 1,
+                "totalScore": 0.751,
+                "avgScore": 0.751
+            },
+            "pave (jewelery)": {
+                "totals": 2,
+                "totalScore": 1.498,
+                "avgScore": 0.749
+            },
+            "framework": {
+                "totals": 2,
+                "totalScore": 1.498,
+                "avgScore": 0.749
+            },
+            "supporting structure": {
+                "totals": 2,
+                "totalScore": 1.498,
+                "avgScore": 0.749
+            },
+            "S-shape": {
+                "totals": 6,
+                "totalScore": 4.079,
+                "avgScore": 0.6798333333333333
+            },
+            "green color": {
+                "totals": 1,
+                "totalScore": 0.507,
+                "avgScore": 0.507
+            },
+            "steel blue color": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "blue color": {
+                "totals": 1,
+                "totalScore": 0.515,
+                "avgScore": 0.515
+            },
+            "clevis (coupler)": {
+                "totals": 2,
+                "totalScore": 1.139,
+                "avgScore": 0.5695
+            },
+            "mechanical device": {
+                "totals": 4,
+                "totalScore": 2.741,
+                "avgScore": 0.68525
+            },
+            "ash grey color": {
+                "totals": 1,
+                "totalScore": 0.885,
+                "avgScore": 0.885
+            },
+            "chain wrench": {
+                "totals": 1,
+                "totalScore": 0.626,
+                "avgScore": 0.626
+            },
+            "adjustable wrench": {
+                "totals": 1,
+                "totalScore": 0.626,
+                "avgScore": 0.626
+            },
+            "wrench": {
+                "totals": 1,
+                "totalScore": 0.627,
+                "avgScore": 0.627
+            },
+            "fan belt": {
+                "totals": 3,
+                "totalScore": 1.6519999999999997,
+                "avgScore": 0.5506666666666665
+            },
+            "wheel": {
+                "totals": 1,
+                "totalScore": 0.597,
+                "avgScore": 0.597
+            },
+            "claw": {
+                "totals": 2,
+                "totalScore": 1.6019999999999999,
+                "avgScore": 0.8009999999999999
+            },
+            "hook": {
+                "totals": 3,
+                "totalScore": 1.634,
+                "avgScore": 0.5446666666666666
+            },
+            "indoors": {
+                "totals": 1,
+                "totalScore": 0.766,
+                "avgScore": 0.766
+            },
+            "maroon color": {
+                "totals": 1,
+                "totalScore": 0.909,
+                "avgScore": 0.909
+            },
+            "reddish orange color": {
+                "totals": 2,
+                "totalScore": 1.5310000000000001,
+                "avgScore": 0.7655000000000001
+            },
+            "musical instrument": {
+                "totals": 2,
+                "totalScore": 1.262,
+                "avgScore": 0.631
+            },
+            "alizarine red color": {
+                "totals": 3,
+                "totalScore": 2.825,
+                "avgScore": 0.9416666666666668
+            },
+            "roundel": {
+                "totals": 2,
+                "totalScore": 1.249,
+                "avgScore": 0.6245
+            },
+            "plate": {
+                "totals": 2,
+                "totalScore": 1.2719999999999998,
+                "avgScore": 0.6359999999999999
+            },
+            "shield": {
+                "totals": 2,
+                "totalScore": 1.282,
+                "avgScore": 0.641
+            },
+            "protective covering": {
+                "totals": 4,
+                "totalScore": 2.787,
+                "avgScore": 0.69675
+            },
+            "worm": {
+                "totals": 1,
+                "totalScore": 0.778,
+                "avgScore": 0.778
+            },
+            "finger plate": {
+                "totals": 2,
+                "totalScore": 1.432,
+                "avgScore": 0.716
+            },
+            "ironmongery": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "Gordian knot": {
+                "totals": 1,
+                "totalScore": 0.675,
+                "avgScore": 0.675
+            },
+            "fastener": {
+                "totals": 5,
+                "totalScore": 3.103,
+                "avgScore": 0.6206
+            },
+            "restraint (chains)": {
+                "totals": 5,
+                "totalScore": 3.103,
+                "avgScore": 0.6206
+            },
+            "shelf bracket": {
+                "totals": 2,
+                "totalScore": 1.181,
+                "avgScore": 0.5905
+            },
+            "wall bracket": {
+                "totals": 2,
+                "totalScore": 1.181,
+                "avgScore": 0.5905
+            },
+            "support": {
+                "totals": 2,
+                "totalScore": 1.181,
+                "avgScore": 0.5905
+            },
+            "cup hook": {
+                "totals": 1,
+                "totalScore": 0.549,
+                "avgScore": 0.549
+            },
+            "earplug": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "plug": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "purple color": {
+                "totals": 1,
+                "totalScore": 0.976,
+                "avgScore": 0.976
+            },
+            "brake lining": {
+                "totals": 1,
+                "totalScore": 0.596,
+                "avgScore": 0.596
+            },
+            "gasket": {
+                "totals": 3,
+                "totalScore": 1.5350000000000001,
+                "avgScore": 0.5116666666666667
+            },
+            "mouth harp": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "beige color": {
+                "totals": 1,
+                "totalScore": 0.875,
+                "avgScore": 0.875
+            },
+            "washer": {
+                "totals": 2,
+                "totalScore": 1.18,
+                "avgScore": 0.59
+            },
+            "coffee filter": {
+                "totals": 2,
+                "totalScore": 1.1,
+                "avgScore": 0.55
+            },
+            "filter": {
+                "totals": 2,
+                "totalScore": 1.1,
+                "avgScore": 0.55
+            },
+            "sash fastener": {
+                "totals": 1,
+                "totalScore": 0.563,
+                "avgScore": 0.563
+            },
+            "lock": {
+                "totals": 1,
+                "totalScore": 0.564,
+                "avgScore": 0.564
+            },
+            "gold plate": {
+                "totals": 1,
+                "totalScore": 0.502,
+                "avgScore": 0.502
+            },
+            "coating": {
+                "totals": 1,
+                "totalScore": 0.502,
+                "avgScore": 0.502
+            },
+            "bullion": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "olive green color": {
+                "totals": 1,
+                "totalScore": 0.938,
+                "avgScore": 0.938
+            },
+            "blood agar": {
+                "totals": 1,
+                "totalScore": 0.936,
+                "avgScore": 0.936
+            },
+            "food": {
+                "totals": 1,
+                "totalScore": 0.936,
+                "avgScore": 0.936
+            },
+            "disk": {
+                "totals": 2,
+                "totalScore": 1.556,
+                "avgScore": 0.778
+            },
+            "CD-R": {
+                "totals": 1,
+                "totalScore": 0.539,
+                "avgScore": 0.539
+            },
+            "spectrum of colors": {
+                "totals": 1,
+                "totalScore": 0.506,
+                "avgScore": 0.506
+            },
+            "panic button": {
+                "totals": 2,
+                "totalScore": 1,
+                "avgScore": 0.5
+            },
+            "push button": {
+                "totals": 2,
+                "totalScore": 1.12,
+                "avgScore": 0.56
+            },
+            "electric switch": {
+                "totals": 2,
+                "totalScore": 1.121,
+                "avgScore": 0.5605
+            },
+            "controller": {
+                "totals": 2,
+                "totalScore": 1.121,
+                "avgScore": 0.5605
+            },
+            "recording": {
+                "totals": 1,
+                "totalScore": 0.6,
+                "avgScore": 0.6
+            },
+            "triskele": {
+                "totals": 1,
+                "totalScore": 0.894,
+                "avgScore": 0.894
+            }
+        },
+        "commonTags": [
+            {
+                "name": "tool",
+                "avgScore": 0.6981
+            },
+            {
+                "name": "photo with lines",
+                "avgScore": 0.7098888888888889
+            },
+            {
+                "name": "figure",
+                "avgScore": 0.665
+            },
+            {
+                "name": "S-shape",
+                "avgScore": 0.6798333333333333
+            },
+            {
+                "name": "fastener",
+                "avgScore": 0.6206
+            },
+            {
+                "name": "restraint (chains)",
+                "avgScore": 0.6206
+            }
+        ]
+    },
+    "six": {
+        "tags": {
+            "washer": {
+                "totals": 3,
+                "totalScore": 1.6280000000000001,
+                "avgScore": 0.5426666666666667
+            },
+            "fastener": {
+                "totals": 6,
+                "totalScore": 3.426,
+                "avgScore": 0.5710000000000001
+            },
+            "restraint (chains)": {
+                "totals": 6,
+                "totalScore": 3.426,
+                "avgScore": 0.5710000000000001
+            },
+            "circle": {
+                "totals": 9,
+                "totalScore": 5.474,
+                "avgScore": 0.6082222222222222
+            },
+            "figure": {
+                "totals": 10,
+                "totalScore": 7.295999999999999,
+                "avgScore": 0.7295999999999999
+            },
+            "loop": {
+                "totals": 1,
+                "totalScore": 0.513,
+                "avgScore": 0.513
+            },
+            "jeweler's loupe": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "light microscope": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "microscope": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "magnifier": {
+                "totals": 1,
+                "totalScore": 0.588,
+                "avgScore": 0.588
+            },
+            "scientific instrument": {
+                "totals": 1,
+                "totalScore": 0.588,
+                "avgScore": 0.588
+            },
+            "optical device": {
+                "totals": 2,
+                "totalScore": 1.1949999999999998,
+                "avgScore": 0.5974999999999999
+            },
+            "coal black color": {
+                "totals": 4,
+                "totalScore": 3.955,
+                "avgScore": 0.98875
+            },
+            "finger plate": {
+                "totals": 3,
+                "totalScore": 2.164,
+                "avgScore": 0.7213333333333334
+            },
+            "protective covering": {
+                "totals": 6,
+                "totalScore": 4.47,
+                "avgScore": 0.745
+            },
+            "doorbell": {
+                "totals": 3,
+                "totalScore": 1.9060000000000001,
+                "avgScore": 0.6353333333333334
+            },
+            "push button": {
+                "totals": 3,
+                "totalScore": 2.02,
+                "avgScore": 0.6733333333333333
+            },
+            "electric switch": {
+                "totals": 3,
+                "totalScore": 2.033,
+                "avgScore": 0.6776666666666666
+            },
+            "controller": {
+                "totals": 3,
+                "totalScore": 2.034,
+                "avgScore": 0.6779999999999999
+            },
+            "escutcheon shield": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "shield": {
+                "totals": 4,
+                "totalScore": 2.776,
+                "avgScore": 0.694
+            },
+            "armor": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "olive green color": {
+                "totals": 3,
+                "totalScore": 2.33,
+                "avgScore": 0.7766666666666667
+            },
+            "pale yellow color": {
+                "totals": 4,
+                "totalScore": 3.441,
+                "avgScore": 0.86025
+            },
+            "octagon": {
+                "totals": 3,
+                "totalScore": 2.686,
+                "avgScore": 0.8953333333333333
+            },
+            "polygon": {
+                "totals": 3,
+                "totalScore": 2.69,
+                "avgScore": 0.8966666666666666
+            },
+            "tetraskelion": {
+                "totals": 1,
+                "totalScore": 0.753,
+                "avgScore": 0.753
+            },
+            "charcoal color": {
+                "totals": 1,
+                "totalScore": 0.829,
+                "avgScore": 0.829
+            },
+            "emerald color": {
+                "totals": 5,
+                "totalScore": 4.058,
+                "avgScore": 0.8116
+            },
+            "roundel": {
+                "totals": 2,
+                "totalScore": 1.7759999999999998,
+                "avgScore": 0.8879999999999999
+            },
+            "plate": {
+                "totals": 2,
+                "totalScore": 1.7759999999999998,
+                "avgScore": 0.8879999999999999
+            },
+            "primary color for light": {
+                "totals": 4,
+                "totalScore": 2.6420000000000003,
+                "avgScore": 0.6605000000000001
+            },
+            "alizarine red color": {
+                "totals": 2,
+                "totalScore": 1.5,
+                "avgScore": 0.75
+            },
+            "primary color for pigments": {
+                "totals": 2,
+                "totalScore": 1.0510000000000002,
+                "avgScore": 0.5255000000000001
+            },
+            "memory device": {
+                "totals": 3,
+                "totalScore": 1.899,
+                "avgScore": 0.633
+            },
+            "ultramarine color": {
+                "totals": 2,
+                "totalScore": 1.875,
+                "avgScore": 0.9375
+            },
+            "cup hook": {
+                "totals": 1,
+                "totalScore": 0.612,
+                "avgScore": 0.612
+            },
+            "hook": {
+                "totals": 1,
+                "totalScore": 0.622,
+                "avgScore": 0.622
+            },
+            "O ring": {
+                "totals": 1,
+                "totalScore": 0.579,
+                "avgScore": 0.579
+            },
+            "clip": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "electrical device": {
+                "totals": 1,
+                "totalScore": 0.595,
+                "avgScore": 0.595
+            },
+            "worm": {
+                "totals": 1,
+                "totalScore": 0.598,
+                "avgScore": 0.598
+            },
+            "jade green color": {
+                "totals": 2,
+                "totalScore": 1.676,
+                "avgScore": 0.838
+            },
+            "photographic film": {
+                "totals": 2,
+                "totalScore": 1.38,
+                "avgScore": 0.69
+            },
+            "photographic equipment": {
+                "totals": 2,
+                "totalScore": 1.384,
+                "avgScore": 0.692
+            },
+            "closeup lens": {
+                "totals": 1,
+                "totalScore": 0.576,
+                "avgScore": 0.576
+            },
+            "lens system": {
+                "totals": 1,
+                "totalScore": 0.598,
+                "avgScore": 0.598
+            },
+            "crescent shaped": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "recording": {
+                "totals": 3,
+                "totalScore": 1.9819999999999998,
+                "avgScore": 0.6606666666666666
+            },
+            "round shape": {
+                "totals": 4,
+                "totalScore": 2.2640000000000002,
+                "avgScore": 0.5660000000000001
+            },
+            "pretzel": {
+                "totals": 1,
+                "totalScore": 0.937,
+                "avgScore": 0.937
+            },
+            "cracker": {
+                "totals": 1,
+                "totalScore": 0.937,
+                "avgScore": 0.937
+            },
+            "bread": {
+                "totals": 1,
+                "totalScore": 0.937,
+                "avgScore": 0.937
+            },
+            "food product": {
+                "totals": 1,
+                "totalScore": 0.937,
+                "avgScore": 0.937
+            },
+            "food": {
+                "totals": 1,
+                "totalScore": 0.937,
+                "avgScore": 0.937
+            },
+            "mechanism": {
+                "totals": 1,
+                "totalScore": 0.791,
+                "avgScore": 0.791
+            },
+            "copper color": {
+                "totals": 1,
+                "totalScore": 0.826,
+                "avgScore": 0.826
+            },
+            "reddish brown color": {
+                "totals": 1,
+                "totalScore": 0.78,
+                "avgScore": 0.78
+            },
+            "magnet": {
+                "totals": 1,
+                "totalScore": 0.875,
+                "avgScore": 0.875
+            },
+            "cellulose tape": {
+                "totals": 3,
+                "totalScore": 2.244,
+                "avgScore": 0.7480000000000001
+            },
+            "toroid shaped object": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "reddish orange color": {
+                "totals": 2,
+                "totalScore": 1.861,
+                "avgScore": 0.9305
+            },
+            "ellipse": {
+                "totals": 1,
+                "totalScore": 0.651,
+                "avgScore": 0.651
+            },
+            "Indian red color": {
+                "totals": 1,
+                "totalScore": 0.534,
+                "avgScore": 0.534
+            },
+            "bearing": {
+                "totals": 1,
+                "totalScore": 0.617,
+                "avgScore": 0.617
+            },
+            "support": {
+                "totals": 1,
+                "totalScore": 0.617,
+                "avgScore": 0.617
+            },
+            "gold plate": {
+                "totals": 2,
+                "totalScore": 1.06,
+                "avgScore": 0.53
+            },
+            "coating": {
+                "totals": 2,
+                "totalScore": 1.06,
+                "avgScore": 0.53
+            },
+            "roll film": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "clothing": {
+                "totals": 1,
+                "totalScore": 0.6,
+                "avgScore": 0.6
+            },
+            "lemon yellow color": {
+                "totals": 1,
+                "totalScore": 0.969,
+                "avgScore": 0.969
+            },
+            "keyhole": {
+                "totals": 1,
+                "totalScore": 0.986,
+                "avgScore": 0.986
+            },
+            "brick red color": {
+                "totals": 1,
+                "totalScore": 0.908,
+                "avgScore": 0.908
+            },
+            "disk": {
+                "totals": 2,
+                "totalScore": 1.439,
+                "avgScore": 0.7195
+            },
+            "magnetic disk": {
+                "totals": 1,
+                "totalScore": 0.617,
+                "avgScore": 0.617
+            },
+            "crimson color": {
+                "totals": 1,
+                "totalScore": 0.732,
+                "avgScore": 0.732
+            },
+            "piston ring": {
+                "totals": 1,
+                "totalScore": 0.585,
+                "avgScore": 0.585
+            },
+            "ivory color": {
+                "totals": 1,
+                "totalScore": 0.847,
+                "avgScore": 0.847
+            },
+            "light brown color": {
+                "totals": 1,
+                "totalScore": 0.562,
+                "avgScore": 0.562
+            },
+            "medical dressing": {
+                "totals": 1,
+                "totalScore": 0.785,
+                "avgScore": 0.785
+            },
+            "greenish blue color": {
+                "totals": 1,
+                "totalScore": 0.771,
+                "avgScore": 0.771
+            },
+            "pave (jewelery)": {
+                "totals": 1,
+                "totalScore": 0.697,
+                "avgScore": 0.697
+            },
+            "framework": {
+                "totals": 1,
+                "totalScore": 0.697,
+                "avgScore": 0.697
+            },
+            "supporting structure": {
+                "totals": 1,
+                "totalScore": 0.697,
+                "avgScore": 0.697
+            },
+            "cell": {
+                "totals": 2,
+                "totalScore": 1.0590000000000002,
+                "avgScore": 0.5295000000000001
+            },
+            "microorganism": {
+                "totals": 2,
+                "totalScore": 1.1869999999999998,
+                "avgScore": 0.5934999999999999
+            },
+            "rose color": {
+                "totals": 1,
+                "totalScore": 0.898,
+                "avgScore": 0.898
+            },
+            "pink color": {
+                "totals": 1,
+                "totalScore": 0.808,
+                "avgScore": 0.808
+            },
+            "sea lavender": {
+                "totals": 1,
+                "totalScore": 0.671,
+                "avgScore": 0.671
+            },
+            "plant": {
+                "totals": 1,
+                "totalScore": 0.723,
+                "avgScore": 0.723
+            },
+            "pinwheel wind collector": {
+                "totals": 1,
+                "totalScore": 0.558,
+                "avgScore": 0.558
+            },
+            "hair slide": {
+                "totals": 1,
+                "totalScore": 0.53,
+                "avgScore": 0.53
+            },
+            "cellophane": {
+                "totals": 1,
+                "totalScore": 0.505,
+                "avgScore": 0.505
+            },
+            "wrapping": {
+                "totals": 1,
+                "totalScore": 0.505,
+                "avgScore": 0.505
+            },
+            "flower": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "flowering plant": {
+                "totals": 1,
+                "totalScore": 0.502,
+                "avgScore": 0.502
+            },
+            "purple color": {
+                "totals": 1,
+                "totalScore": 0.85,
+                "avgScore": 0.85
+            },
+            "spotlight": {
+                "totals": 1,
+                "totalScore": 0.611,
+                "avgScore": 0.611
+            },
+            "lamp": {
+                "totals": 1,
+                "totalScore": 0.693,
+                "avgScore": 0.693
+            },
+            "bell push (button)": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "light source": {
+                "totals": 1,
+                "totalScore": 0.795,
+                "avgScore": 0.795
+            },
+            "CD-ROM": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "bottle green color": {
+                "totals": 1,
+                "totalScore": 0.685,
+                "avgScore": 0.685
+            },
+            "cigar cutter": {
+                "totals": 1,
+                "totalScore": 0.821,
+                "avgScore": 0.821
+            },
+            "cutlery": {
+                "totals": 1,
+                "totalScore": 0.821,
+                "avgScore": 0.821
+            },
+            "tool": {
+                "totals": 1,
+                "totalScore": 0.821,
+                "avgScore": 0.821
+            },
+            "planchet": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "beige color": {
+                "totals": 1,
+                "totalScore": 0.685,
+                "avgScore": 0.685
+            },
+            "arabesque (ornament)": {
+                "totals": 1,
+                "totalScore": 0.584,
+                "avgScore": 0.584
+            },
+            "lines": {
+                "totals": 1,
+                "totalScore": 0.567,
+                "avgScore": 0.567
+            },
+            "whip": {
+                "totals": 1,
+                "totalScore": 0.918,
+                "avgScore": 0.918
+            },
+            "instrument": {
+                "totals": 1,
+                "totalScore": 0.801,
+                "avgScore": 0.801
+            }
+        },
+        "commonTags": [
+            {
+                "name": "fastener",
+                "avgScore": 0.5710000000000001
+            },
+            {
+                "name": "restraint (chains)",
+                "avgScore": 0.5710000000000001
+            },
+            {
+                "name": "circle",
+                "avgScore": 0.6082222222222222
+            },
+            {
+                "name": "figure",
+                "avgScore": 0.7295999999999999
+            },
+            {
+                "name": "protective covering",
+                "avgScore": 0.745
+            }
+        ]
+    },
+    "seven": {
+        "tags": {
+            "spectrum of colors": {
+                "totals": 3,
+                "totalScore": 2.115,
+                "avgScore": 0.7050000000000001
+            },
+            "primary color for light": {
+                "totals": 1,
+                "totalScore": 0.555,
+                "avgScore": 0.555
+            },
+            "nonsolid color": {
+                "totals": 2,
+                "totalScore": 1,
+                "avgScore": 0.5
+            },
+            "tool": {
+                "totals": 20,
+                "totalScore": 15.607,
+                "avgScore": 0.78035
+            },
+            "bottle green color": {
+                "totals": 1,
+                "totalScore": 0.731,
+                "avgScore": 0.731
+            },
+            "reddish orange color": {
+                "totals": 4,
+                "totalScore": 3.093,
+                "avgScore": 0.77325
+            },
+            "pruning saw": {
+                "totals": 2,
+                "totalScore": 1.631,
+                "avgScore": 0.8155
+            },
+            "handsaw": {
+                "totals": 2,
+                "totalScore": 1.6949999999999998,
+                "avgScore": 0.8474999999999999
+            },
+            "saw": {
+                "totals": 3,
+                "totalScore": 2.367,
+                "avgScore": 0.789
+            },
+            "sickle": {
+                "totals": 4,
+                "totalScore": 2.73,
+                "avgScore": 0.6825
+            },
+            "cutlery": {
+                "totals": 8,
+                "totalScore": 6.14,
+                "avgScore": 0.7675
+            },
+            "folding saw": {
+                "totals": 2,
+                "totalScore": 1.165,
+                "avgScore": 0.5825
+            },
+            "weapon": {
+                "totals": 5,
+                "totalScore": 3.091,
+                "avgScore": 0.6182000000000001
+            },
+            "coal black color": {
+                "totals": 11,
+                "totalScore": 10.394,
+                "avgScore": 0.9449090909090909
+            },
+            "shoehorn": {
+                "totals": 1,
+                "totalScore": 0.693,
+                "avgScore": 0.693
+            },
+            "scraper": {
+                "totals": 1,
+                "totalScore": 0.646,
+                "avgScore": 0.646
+            },
+            "wire cutter": {
+                "totals": 1,
+                "totalScore": 0.551,
+                "avgScore": 0.551
+            },
+            "pair of pincers": {
+                "totals": 1,
+                "totalScore": 0.527,
+                "avgScore": 0.527
+            },
+            "long johns": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "underwear": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "undergarment": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "garment": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "clothing": {
+                "totals": 3,
+                "totalScore": 2.174,
+                "avgScore": 0.7246666666666667
+            },
+            "alizarine red color": {
+                "totals": 1,
+                "totalScore": 0.922,
+                "avgScore": 0.922
+            },
+            "harp": {
+                "totals": 2,
+                "totalScore": 1.471,
+                "avgScore": 0.7355
+            },
+            "chordophone (musical instrument)": {
+                "totals": 2,
+                "totalScore": 1.471,
+                "avgScore": 0.7355
+            },
+            "stringed instrument": {
+                "totals": 3,
+                "totalScore": 1.984,
+                "avgScore": 0.6613333333333333
+            },
+            "musical instrument": {
+                "totals": 4,
+                "totalScore": 2.872,
+                "avgScore": 0.718
+            },
+            "swing": {
+                "totals": 2,
+                "totalScore": 1.0859999999999999,
+                "avgScore": 0.5429999999999999
+            },
+            "mechanical device": {
+                "totals": 4,
+                "totalScore": 2.2699999999999996,
+                "avgScore": 0.5674999999999999
+            },
+            "gray color": {
+                "totals": 4,
+                "totalScore": 2.914,
+                "avgScore": 0.7285
+            },
+            "shelf bracket": {
+                "totals": 3,
+                "totalScore": 1.9969999999999999,
+                "avgScore": 0.6656666666666666
+            },
+            "wall bracket": {
+                "totals": 3,
+                "totalScore": 1.9979999999999998,
+                "avgScore": 0.6659999999999999
+            },
+            "support": {
+                "totals": 5,
+                "totalScore": 3.003,
+                "avgScore": 0.6006
+            },
+            "laryngoscope (medical instrument)": {
+                "totals": 1,
+                "totalScore": 0.542,
+                "avgScore": 0.542
+            },
+            "medical instrument": {
+                "totals": 1,
+                "totalScore": 0.542,
+                "avgScore": 0.542
+            },
+            "razor": {
+                "totals": 4,
+                "totalScore": 3.2619999999999996,
+                "avgScore": 0.8154999999999999
+            },
+            "magnetic stripe": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "memory device": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "chain": {
+                "totals": 2,
+                "totalScore": 1.4009999999999998,
+                "avgScore": 0.7004999999999999
+            },
+            "razorblade": {
+                "totals": 1,
+                "totalScore": 0.563,
+                "avgScore": 0.563
+            },
+            "lavaliere (jewelled pendent)": {
+                "totals": 1,
+                "totalScore": 0.52,
+                "avgScore": 0.52
+            },
+            "angle of refraction": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "figure": {
+                "totals": 7,
+                "totalScore": 4.872,
+                "avgScore": 0.696
+            },
+            "mechanism": {
+                "totals": 4,
+                "totalScore": 2.765,
+                "avgScore": 0.69125
+            },
+            "electrical connector": {
+                "totals": 2,
+                "totalScore": 1.4020000000000001,
+                "avgScore": 0.7010000000000001
+            },
+            "picture frame": {
+                "totals": 1,
+                "totalScore": 0.783,
+                "avgScore": 0.783
+            },
+            "framework": {
+                "totals": 2,
+                "totalScore": 1.467,
+                "avgScore": 0.7335
+            },
+            "supporting structure": {
+                "totals": 2,
+                "totalScore": 1.467,
+                "avgScore": 0.7335
+            },
+            "frame": {
+                "totals": 2,
+                "totalScore": 1.269,
+                "avgScore": 0.6345
+            },
+            "psychrometer (hygrometer)": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "measuring instrument": {
+                "totals": 3,
+                "totalScore": 2.096,
+                "avgScore": 0.6986666666666667
+            },
+            "triangle": {
+                "totals": 2,
+                "totalScore": 1.396,
+                "avgScore": 0.698
+            },
+            "polygon": {
+                "totals": 2,
+                "totalScore": 1.396,
+                "avgScore": 0.698
+            },
+            "yellow color": {
+                "totals": 1,
+                "totalScore": 0.531,
+                "avgScore": 0.531
+            },
+            "desktop": {
+                "totals": 1,
+                "totalScore": 0.528,
+                "avgScore": 0.528
+            },
+            "video display": {
+                "totals": 1,
+                "totalScore": 0.528,
+                "avgScore": 0.528
+            },
+            "electronic device": {
+                "totals": 1,
+                "totalScore": 0.528,
+                "avgScore": 0.528
+            },
+            "boomerang": {
+                "totals": 2,
+                "totalScore": 1.025,
+                "avgScore": 0.5125
+            },
+            "lemon yellow color": {
+                "totals": 1,
+                "totalScore": 0.582,
+                "avgScore": 0.582
+            },
+            "slide fastener": {
+                "totals": 1,
+                "totalScore": 0.575,
+                "avgScore": 0.575
+            },
+            "fastener": {
+                "totals": 1,
+                "totalScore": 0.575,
+                "avgScore": 0.575
+            },
+            "restraint (chains)": {
+                "totals": 1,
+                "totalScore": 0.575,
+                "avgScore": 0.575
+            },
+            "pistol grip": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "brush": {
+                "totals": 2,
+                "totalScore": 1.5510000000000002,
+                "avgScore": 0.7755000000000001
+            },
+            "dark red color": {
+                "totals": 1,
+                "totalScore": 0.8,
+                "avgScore": 0.8
+            },
+            "sword": {
+                "totals": 1,
+                "totalScore": 0.668,
+                "avgScore": 0.668
+            },
+            "serration": {
+                "totals": 1,
+                "totalScore": 0.582,
+                "avgScore": 0.582
+            },
+            "concave shape": {
+                "totals": 1,
+                "totalScore": 0.582,
+                "avgScore": 0.582
+            },
+            "scimitar (sword)": {
+                "totals": 1,
+                "totalScore": 0.518,
+                "avgScore": 0.518
+            },
+            "windmill": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "grinder": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "machinery": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "machine": {
+                "totals": 2,
+                "totalScore": 1.1520000000000001,
+                "avgScore": 0.5760000000000001
+            },
+            "windshield wiper": {
+                "totals": 1,
+                "totalScore": 0.682,
+                "avgScore": 0.682
+            },
+            "chain wrench": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "adjustable wrench": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "wrench": {
+                "totals": 1,
+                "totalScore": 0.501,
+                "avgScore": 0.501
+            },
+            "paper based (stamps/currency)": {
+                "totals": 1,
+                "totalScore": 0.755,
+                "avgScore": 0.755
+            },
+            "written document": {
+                "totals": 1,
+                "totalScore": 0.755,
+                "avgScore": 0.755
+            },
+            "steel arch bridge": {
+                "totals": 1,
+                "totalScore": 0.536,
+                "avgScore": 0.536
+            },
+            "bridge": {
+                "totals": 1,
+                "totalScore": 0.54,
+                "avgScore": 0.54
+            },
+            "zither (musical stringed instrument)": {
+                "totals": 1,
+                "totalScore": 0.512,
+                "avgScore": 0.512
+            },
+            "roller coaster": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "Indian red color": {
+                "totals": 1,
+                "totalScore": 0.659,
+                "avgScore": 0.659
+            },
+            "olive green color": {
+                "totals": 2,
+                "totalScore": 1.5190000000000001,
+                "avgScore": 0.7595000000000001
+            },
+            "hypotenuse": {
+                "totals": 2,
+                "totalScore": 1.4180000000000001,
+                "avgScore": 0.7090000000000001
+            },
+            "obtuse triangle": {
+                "totals": 1,
+                "totalScore": 0.535,
+                "avgScore": 0.535
+            },
+            "scalene triangle": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "emerald color": {
+                "totals": 3,
+                "totalScore": 2.738,
+                "avgScore": 0.9126666666666666
+            },
+            "supernova": {
+                "totals": 1,
+                "totalScore": 0.707,
+                "avgScore": 0.707
+            },
+            "neon lamp": {
+                "totals": 1,
+                "totalScore": 0.691,
+                "avgScore": 0.691
+            },
+            "lamp": {
+                "totals": 1,
+                "totalScore": 0.692,
+                "avgScore": 0.692
+            },
+            "pulsar star": {
+                "totals": 1,
+                "totalScore": 0.564,
+                "avgScore": 0.564
+            },
+            "nature": {
+                "totals": 1,
+                "totalScore": 0.564,
+                "avgScore": 0.564
+            },
+            "cold cathode": {
+                "totals": 1,
+                "totalScore": 0.516,
+                "avgScore": 0.516
+            },
+            "light-emitting diode": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "cell": {
+                "totals": 2,
+                "totalScore": 1.176,
+                "avgScore": 0.588
+            },
+            "animal": {
+                "totals": 1,
+                "totalScore": 0.58,
+                "avgScore": 0.58
+            },
+            "electrode": {
+                "totals": 1,
+                "totalScore": 0.6,
+                "avgScore": 0.6
+            },
+            "purple color": {
+                "totals": 2,
+                "totalScore": 1.923,
+                "avgScore": 0.9615
+            },
+            "protractor": {
+                "totals": 1,
+                "totalScore": 0.704,
+                "avgScore": 0.704
+            },
+            "drafting instrument": {
+                "totals": 2,
+                "totalScore": 1.27,
+                "avgScore": 0.635
+            },
+            "comb": {
+                "totals": 1,
+                "totalScore": 0.942,
+                "avgScore": 0.942
+            },
+            "pocketcomb": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "fabric": {
+                "totals": 2,
+                "totalScore": 1.3940000000000001,
+                "avgScore": 0.6970000000000001
+            },
+            "ultramarine color": {
+                "totals": 1,
+                "totalScore": 0.972,
+                "avgScore": 0.972
+            },
+            "stentor (organism)": {
+                "totals": 1,
+                "totalScore": 0.662,
+                "avgScore": 0.662
+            },
+            "microorganism": {
+                "totals": 1,
+                "totalScore": 0.79,
+                "avgScore": 0.79
+            },
+            "paramecium (organism)": {
+                "totals": 1,
+                "totalScore": 0.614,
+                "avgScore": 0.614
+            },
+            "pink color": {
+                "totals": 1,
+                "totalScore": 0.515,
+                "avgScore": 0.515
+            },
+            "bandanna": {
+                "totals": 1,
+                "totalScore": 0.509,
+                "avgScore": 0.509
+            },
+            "Valenciennes lace": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "lace": {
+                "totals": 1,
+                "totalScore": 0.527,
+                "avgScore": 0.527
+            },
+            "plant": {
+                "totals": 1,
+                "totalScore": 0.597,
+                "avgScore": 0.597
+            },
+            "autoradiograph": {
+                "totals": 1,
+                "totalScore": 0.653,
+                "avgScore": 0.653
+            },
+            "radiogram": {
+                "totals": 1,
+                "totalScore": 0.66,
+                "avgScore": 0.66
+            },
+            "sorter": {
+                "totals": 1,
+                "totalScore": 0.65,
+                "avgScore": 0.65
+            },
+            "rock drill": {
+                "totals": 1,
+                "totalScore": 0.592,
+                "avgScore": 0.592
+            },
+            "drill": {
+                "totals": 1,
+                "totalScore": 0.593,
+                "avgScore": 0.593
+            },
+            "rolling mill": {
+                "totals": 1,
+                "totalScore": 0.546,
+                "avgScore": 0.546
+            },
+            "factory": {
+                "totals": 1,
+                "totalScore": 0.546,
+                "avgScore": 0.546
+            },
+            "tread": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "carpenter's square": {
+                "totals": 3,
+                "totalScore": 2.065,
+                "avgScore": 0.6883333333333334
+            },
+            "square": {
+                "totals": 3,
+                "totalScore": 2.5,
+                "avgScore": 0.8333333333333334
+            },
+            "T-square": {
+                "totals": 1,
+                "totalScore": 0.566,
+                "avgScore": 0.566
+            },
+            "charcoal color": {
+                "totals": 1,
+                "totalScore": 0.778,
+                "avgScore": 0.778
+            },
+            "wrecking bar": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "lever": {
+                "totals": 1,
+                "totalScore": 0.501,
+                "avgScore": 0.501
+            },
+            "bar": {
+                "totals": 1,
+                "totalScore": 0.501,
+                "avgScore": 0.501
+            }
+        },
+        "commonTags": [
+            {
+                "name": "tool",
+                "avgScore": 0.78035
+            },
+            {
+                "name": "cutlery",
+                "avgScore": 0.7675
+            },
+            {
+                "name": "weapon",
+                "avgScore": 0.6182000000000001
+            },
+            {
+                "name": "support",
+                "avgScore": 0.6006
+            },
+            {
+                "name": "figure",
+                "avgScore": 0.696
+            }
+        ]
+    },
+    "eight": {
+        "tags": {
+            "love knot jewelry": {
+                "totals": 2,
+                "totalScore": 1.4689999999999999,
+                "avgScore": 0.7344999999999999
+            },
+            "knot": {
+                "totals": 5,
+                "totalScore": 3.8569999999999998,
+                "avgScore": 0.7714
+            },
+            "fastener": {
+                "totals": 9,
+                "totalScore": 7.029999999999999,
+                "avgScore": 0.7811111111111111
+            },
+            "restraint (chains)": {
+                "totals": 10,
+                "totalScore": 7.529999999999999,
+                "avgScore": 0.7529999999999999
+            },
+            "musical instrument": {
+                "totals": 1,
+                "totalScore": 0.79,
+                "avgScore": 0.79
+            },
+            "emerald color": {
+                "totals": 10,
+                "totalScore": 8.1,
+                "avgScore": 0.8099999999999999
+            },
+            "olive green color": {
+                "totals": 3,
+                "totalScore": 2.625,
+                "avgScore": 0.875
+            },
+            "washer": {
+                "totals": 4,
+                "totalScore": 2.8360000000000003,
+                "avgScore": 0.7090000000000001
+            },
+            "circle": {
+                "totals": 8,
+                "totalScore": 5.5920000000000005,
+                "avgScore": 0.6990000000000001
+            },
+            "O ring": {
+                "totals": 2,
+                "totalScore": 1.1179999999999999,
+                "avgScore": 0.5589999999999999
+            },
+            "pinion (gear)": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "gear wheel": {
+                "totals": 1,
+                "totalScore": 0.513,
+                "avgScore": 0.513
+            },
+            "wheel": {
+                "totals": 4,
+                "totalScore": 2.207,
+                "avgScore": 0.55175
+            },
+            "machine": {
+                "totals": 3,
+                "totalScore": 1.7810000000000001,
+                "avgScore": 0.5936666666666667
+            },
+            "mechanical device": {
+                "totals": 4,
+                "totalScore": 2.29,
+                "avgScore": 0.5725
+            },
+            "round shape": {
+                "totals": 3,
+                "totalScore": 2.081,
+                "avgScore": 0.6936666666666667
+            },
+            "coal black color": {
+                "totals": 5,
+                "totalScore": 4.606,
+                "avgScore": 0.9212
+            },
+            "lavaliere (jewelled pendent)": {
+                "totals": 1,
+                "totalScore": 0.721,
+                "avgScore": 0.721
+            },
+            "ellipse": {
+                "totals": 3,
+                "totalScore": 1.514,
+                "avgScore": 0.5046666666666667
+            },
+            "figure": {
+                "totals": 9,
+                "totalScore": 6.356,
+                "avgScore": 0.7062222222222222
+            },
+            "electrical connector": {
+                "totals": 1,
+                "totalScore": 0.794,
+                "avgScore": 0.794
+            },
+            "ivory color": {
+                "totals": 4,
+                "totalScore": 3.242,
+                "avgScore": 0.8105
+            },
+            "bracteole": {
+                "totals": 2,
+                "totalScore": 1.191,
+                "avgScore": 0.5955
+            },
+            "plant": {
+                "totals": 3,
+                "totalScore": 1.856,
+                "avgScore": 0.6186666666666667
+            },
+            "fan belt": {
+                "totals": 1,
+                "totalScore": 0.672,
+                "avgScore": 0.672
+            },
+            "whip": {
+                "totals": 3,
+                "totalScore": 1.889,
+                "avgScore": 0.6296666666666667
+            },
+            "gray color": {
+                "totals": 3,
+                "totalScore": 1.925,
+                "avgScore": 0.6416666666666667
+            },
+            "sea lavender": {
+                "totals": 1,
+                "totalScore": 0.665,
+                "avgScore": 0.665
+            },
+            "pin": {
+                "totals": 1,
+                "totalScore": 0.746,
+                "avgScore": 0.746
+            },
+            "hatpin": {
+                "totals": 1,
+                "totalScore": 0.504,
+                "avgScore": 0.504
+            },
+            "cell": {
+                "totals": 4,
+                "totalScore": 2.355,
+                "avgScore": 0.58875
+            },
+            "flower": {
+                "totals": 1,
+                "totalScore": 0.595,
+                "avgScore": 0.595
+            },
+            "purple color": {
+                "totals": 3,
+                "totalScore": 2.854,
+                "avgScore": 0.9513333333333334
+            },
+            "finger plate": {
+                "totals": 3,
+                "totalScore": 2.3680000000000003,
+                "avgScore": 0.7893333333333334
+            },
+            "protective covering": {
+                "totals": 5,
+                "totalScore": 3.772,
+                "avgScore": 0.7544
+            },
+            "reddish orange color": {
+                "totals": 2,
+                "totalScore": 1.5579999999999998,
+                "avgScore": 0.7789999999999999
+            },
+            "clevis (coupler)": {
+                "totals": 1,
+                "totalScore": 0.509,
+                "avgScore": 0.509
+            },
+            "eye mask": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "mask": {
+                "totals": 1,
+                "totalScore": 0.501,
+                "avgScore": 0.501
+            },
+            "tool": {
+                "totals": 6,
+                "totalScore": 4.532,
+                "avgScore": 0.7553333333333333
+            },
+            "mechanism": {
+                "totals": 3,
+                "totalScore": 2,
+                "avgScore": 0.6666666666666666
+            },
+            "octagon": {
+                "totals": 2,
+                "totalScore": 1.638,
+                "avgScore": 0.819
+            },
+            "polygon": {
+                "totals": 2,
+                "totalScore": 1.6840000000000002,
+                "avgScore": 0.8420000000000001
+            },
+            "pentagon": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "escutcheon shield": {
+                "totals": 2,
+                "totalScore": 1.014,
+                "avgScore": 0.507
+            },
+            "shield": {
+                "totals": 3,
+                "totalScore": 1.534,
+                "avgScore": 0.5113333333333333
+            },
+            "armor": {
+                "totals": 2,
+                "totalScore": 1.014,
+                "avgScore": 0.507
+            },
+            "pale yellow color": {
+                "totals": 1,
+                "totalScore": 0.937,
+                "avgScore": 0.937
+            },
+            "screw eye": {
+                "totals": 1,
+                "totalScore": 0.79,
+                "avgScore": 0.79
+            },
+            "screw": {
+                "totals": 1,
+                "totalScore": 0.79,
+                "avgScore": 0.79
+            },
+            "sprocket wheel": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "brass knuckles": {
+                "totals": 1,
+                "totalScore": 0.581,
+                "avgScore": 0.581
+            },
+            "weapon": {
+                "totals": 1,
+                "totalScore": 0.581,
+                "avgScore": 0.581
+            },
+            "piston ring": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "wire": {
+                "totals": 2,
+                "totalScore": 1.383,
+                "avgScore": 0.6915
+            },
+            "gasket": {
+                "totals": 3,
+                "totalScore": 1.6440000000000001,
+                "avgScore": 0.548
+            },
+            "jeweler's loupe": {
+                "totals": 1,
+                "totalScore": 0.866,
+                "avgScore": 0.866
+            },
+            "light microscope": {
+                "totals": 1,
+                "totalScore": 0.866,
+                "avgScore": 0.866
+            },
+            "microscope": {
+                "totals": 1,
+                "totalScore": 0.866,
+                "avgScore": 0.866
+            },
+            "magnifier": {
+                "totals": 1,
+                "totalScore": 0.929,
+                "avgScore": 0.929
+            },
+            "scientific instrument": {
+                "totals": 1,
+                "totalScore": 0.929,
+                "avgScore": 0.929
+            },
+            "toilet seat": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "seat": {
+                "totals": 1,
+                "totalScore": 0.504,
+                "avgScore": 0.504
+            },
+            "furniture": {
+                "totals": 1,
+                "totalScore": 0.504,
+                "avgScore": 0.504
+            },
+            "ringlet": {
+                "totals": 1,
+                "totalScore": 0.689,
+                "avgScore": 0.689
+            },
+            "baling wire": {
+                "totals": 1,
+                "totalScore": 0.638,
+                "avgScore": 0.638
+            },
+            "binder": {
+                "totals": 1,
+                "totalScore": 0.627,
+                "avgScore": 0.627
+            },
+            "ligature": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "charcoal color": {
+                "totals": 1,
+                "totalScore": 0.706,
+                "avgScore": 0.706
+            },
+            "lockring": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "disk": {
+                "totals": 1,
+                "totalScore": 0.786,
+                "avgScore": 0.786
+            },
+            "faceplate": {
+                "totals": 1,
+                "totalScore": 0.758,
+                "avgScore": 0.758
+            },
+            "green color": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "jade green color": {
+                "totals": 1,
+                "totalScore": 0.889,
+                "avgScore": 0.889
+            },
+            "atoll": {
+                "totals": 1,
+                "totalScore": 0.754,
+                "avgScore": 0.754
+            },
+            "ridge": {
+                "totals": 1,
+                "totalScore": 0.754,
+                "avgScore": 0.754
+            },
+            "nature": {
+                "totals": 1,
+                "totalScore": 0.754,
+                "avgScore": 0.754
+            },
+            "ameba": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "microorganism": {
+                "totals": 2,
+                "totalScore": 1.395,
+                "avgScore": 0.6975
+            },
+            "animal": {
+                "totals": 1,
+                "totalScore": 0.598,
+                "avgScore": 0.598
+            },
+            "blue color": {
+                "totals": 3,
+                "totalScore": 2.754,
+                "avgScore": 0.918
+            },
+            "neon lamp": {
+                "totals": 1,
+                "totalScore": 0.937,
+                "avgScore": 0.937
+            },
+            "lamp": {
+                "totals": 1,
+                "totalScore": 0.937,
+                "avgScore": 0.937
+            },
+            "glow tube": {
+                "totals": 1,
+                "totalScore": 0.52,
+                "avgScore": 0.52
+            },
+            "gas-discharge tube": {
+                "totals": 1,
+                "totalScore": 0.52,
+                "avgScore": 0.52
+            },
+            "electronic device": {
+                "totals": 1,
+                "totalScore": 0.52,
+                "avgScore": 0.52
+            },
+            "cold cathode": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "equipment": {
+                "totals": 1,
+                "totalScore": 0.793,
+                "avgScore": 0.793
+            },
+            "ciliate (organism)": {
+                "totals": 1,
+                "totalScore": 0.571,
+                "avgScore": 0.571
+            },
+            "eukaryote (organism)": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "pink color": {
+                "totals": 1,
+                "totalScore": 0.651,
+                "avgScore": 0.651
+            },
+            "pulley": {
+                "totals": 1,
+                "totalScore": 0.758,
+                "avgScore": 0.758
+            },
+            "potty seat": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "rubber band": {
+                "totals": 1,
+                "totalScore": 0.596,
+                "avgScore": 0.596
+            },
+            "claret red color": {
+                "totals": 1,
+                "totalScore": 0.592,
+                "avgScore": 0.592
+            },
+            "primary color for pigments": {
+                "totals": 1,
+                "totalScore": 0.522,
+                "avgScore": 0.522
+            },
+            "roundel": {
+                "totals": 1,
+                "totalScore": 0.519,
+                "avgScore": 0.519
+            },
+            "plate": {
+                "totals": 1,
+                "totalScore": 0.52,
+                "avgScore": 0.52
+            },
+            "primary color for light": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "game equipment": {
+                "totals": 1,
+                "totalScore": 0.599,
+                "avgScore": 0.599
+            },
+            "ultramarine color": {
+                "totals": 1,
+                "totalScore": 0.837,
+                "avgScore": 0.837
+            }
+        },
+        "commonTags": [
+            {
+                "name": "knot",
+                "avgScore": 0.7714
+            },
+            {
+                "name": "fastener",
+                "avgScore": 0.7811111111111111
+            },
+            {
+                "name": "restraint (chains)",
+                "avgScore": 0.7529999999999999
+            },
+            {
+                "name": "circle",
+                "avgScore": 0.6990000000000001
+            },
+            {
+                "name": "figure",
+                "avgScore": 0.7062222222222222
+            },
+            {
+                "name": "protective covering",
+                "avgScore": 0.7544
+            },
+            {
+                "name": "tool",
+                "avgScore": 0.7553333333333333
+            }
+        ]
+    },
+    "nine": {
+        "tags": {
+            "washer": {
+                "totals": 3,
+                "totalScore": 2.008,
+                "avgScore": 0.6693333333333333
+            },
+            "fastener": {
+                "totals": 9,
+                "totalScore": 5.915000000000001,
+                "avgScore": 0.6572222222222224
+            },
+            "restraint (chains)": {
+                "totals": 9,
+                "totalScore": 6.072,
+                "avgScore": 0.6746666666666666
+            },
+            "circle": {
+                "totals": 7,
+                "totalScore": 4.681,
+                "avgScore": 0.6687142857142857
+            },
+            "aperture (small opening)": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "figure": {
+                "totals": 7,
+                "totalScore": 5.005,
+                "avgScore": 0.715
+            },
+            "round shape": {
+                "totals": 4,
+                "totalScore": 2.456,
+                "avgScore": 0.614
+            },
+            "coal black color": {
+                "totals": 5,
+                "totalScore": 4.6209999999999996,
+                "avgScore": 0.9241999999999999
+            },
+            "flywheel": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "controller": {
+                "totals": 3,
+                "totalScore": 1.6059999999999999,
+                "avgScore": 0.5353333333333333
+            },
+            "wheel": {
+                "totals": 2,
+                "totalScore": 1.352,
+                "avgScore": 0.676
+            },
+            "clutch": {
+                "totals": 1,
+                "totalScore": 0.784,
+                "avgScore": 0.784
+            },
+            "ivory color": {
+                "totals": 3,
+                "totalScore": 2.618,
+                "avgScore": 0.8726666666666666
+            },
+            "cog": {
+                "totals": 1,
+                "totalScore": 0.736,
+                "avgScore": 0.736
+            },
+            "sprocket wheel": {
+                "totals": 1,
+                "totalScore": 0.55,
+                "avgScore": 0.55
+            },
+            "machine": {
+                "totals": 1,
+                "totalScore": 0.555,
+                "avgScore": 0.555
+            },
+            "mechanical device": {
+                "totals": 1,
+                "totalScore": 0.555,
+                "avgScore": 0.555
+            },
+            "sprocket": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "photographic equipment": {
+                "totals": 1,
+                "totalScore": 0.575,
+                "avgScore": 0.575
+            },
+            "emerald color": {
+                "totals": 9,
+                "totalScore": 8.173,
+                "avgScore": 0.9081111111111111
+            },
+            "toilet seat": {
+                "totals": 1,
+                "totalScore": 0.724,
+                "avgScore": 0.724
+            },
+            "seat": {
+                "totals": 1,
+                "totalScore": 0.724,
+                "avgScore": 0.724
+            },
+            "furniture": {
+                "totals": 1,
+                "totalScore": 0.724,
+                "avgScore": 0.724
+            },
+            "cellulose tape": {
+                "totals": 2,
+                "totalScore": 1.494,
+                "avgScore": 0.747
+            },
+            "crescent shaped": {
+                "totals": 2,
+                "totalScore": 1.3730000000000002,
+                "avgScore": 0.6865000000000001
+            },
+            "blue chip": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "utensil": {
+                "totals": 1,
+                "totalScore": 0.599,
+                "avgScore": 0.599
+            },
+            "recording": {
+                "totals": 3,
+                "totalScore": 1.988,
+                "avgScore": 0.6626666666666666
+            },
+            "ultramarine color": {
+                "totals": 3,
+                "totalScore": 2.645,
+                "avgScore": 0.8816666666666667
+            },
+            "protractor": {
+                "totals": 2,
+                "totalScore": 1.064,
+                "avgScore": 0.532
+            },
+            "drafting instrument": {
+                "totals": 2,
+                "totalScore": 1.065,
+                "avgScore": 0.5325
+            },
+            "keyhole": {
+                "totals": 2,
+                "totalScore": 1.063,
+                "avgScore": 0.5315
+            },
+            "microorganism": {
+                "totals": 1,
+                "totalScore": 0.599,
+                "avgScore": 0.599
+            },
+            "black color": {
+                "totals": 1,
+                "totalScore": 0.682,
+                "avgScore": 0.682
+            },
+            "night-light": {
+                "totals": 2,
+                "totalScore": 1.709,
+                "avgScore": 0.8545
+            },
+            "light source": {
+                "totals": 2,
+                "totalScore": 1.717,
+                "avgScore": 0.8585
+            },
+            "primary color for light": {
+                "totals": 1,
+                "totalScore": 0.74,
+                "avgScore": 0.74
+            },
+            "light-emitting diode": {
+                "totals": 2,
+                "totalScore": 1,
+                "avgScore": 0.5
+            },
+            "conductor": {
+                "totals": 1,
+                "totalScore": 0.799,
+                "avgScore": 0.799
+            },
+            "lemon yellow color": {
+                "totals": 1,
+                "totalScore": 0.867,
+                "avgScore": 0.867
+            },
+            "whip": {
+                "totals": 3,
+                "totalScore": 2.275,
+                "avgScore": 0.7583333333333333
+            },
+            "light brown color": {
+                "totals": 1,
+                "totalScore": 0.832,
+                "avgScore": 0.832
+            },
+            "sea lavender": {
+                "totals": 1,
+                "totalScore": 0.72,
+                "avgScore": 0.72
+            },
+            "plant": {
+                "totals": 2,
+                "totalScore": 1.22,
+                "avgScore": 0.61
+            },
+            "hair slide": {
+                "totals": 2,
+                "totalScore": 1.2269999999999999,
+                "avgScore": 0.6134999999999999
+            },
+            "pinwheel wind collector": {
+                "totals": 1,
+                "totalScore": 0.679,
+                "avgScore": 0.679
+            },
+            "barrette (hair pin)": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "pin": {
+                "totals": 1,
+                "totalScore": 0.536,
+                "avgScore": 0.536
+            },
+            "food": {
+                "totals": 1,
+                "totalScore": 0.594,
+                "avgScore": 0.594
+            },
+            "purple color": {
+                "totals": 1,
+                "totalScore": 0.694,
+                "avgScore": 0.694
+            },
+            "neon lamp": {
+                "totals": 1,
+                "totalScore": 0.603,
+                "avgScore": 0.603
+            },
+            "lamp": {
+                "totals": 1,
+                "totalScore": 0.617,
+                "avgScore": 0.617
+            },
+            "push button": {
+                "totals": 2,
+                "totalScore": 1.302,
+                "avgScore": 0.651
+            },
+            "mechanism": {
+                "totals": 2,
+                "totalScore": 1.58,
+                "avgScore": 0.79
+            },
+            "maroon color": {
+                "totals": 2,
+                "totalScore": 1.697,
+                "avgScore": 0.8485
+            },
+            "O ring": {
+                "totals": 1,
+                "totalScore": 0.962,
+                "avgScore": 0.962
+            },
+            "frame": {
+                "totals": 1,
+                "totalScore": 0.593,
+                "avgScore": 0.593
+            },
+            "framework": {
+                "totals": 3,
+                "totalScore": 1.9809999999999999,
+                "avgScore": 0.6603333333333333
+            },
+            "supporting structure": {
+                "totals": 3,
+                "totalScore": 1.9809999999999999,
+                "avgScore": 0.6603333333333333
+            },
+            "ellipse": {
+                "totals": 2,
+                "totalScore": 1.076,
+                "avgScore": 0.538
+            },
+            "picture frame": {
+                "totals": 3,
+                "totalScore": 1.608,
+                "avgScore": 0.536
+            },
+            "hand glass": {
+                "totals": 1,
+                "totalScore": 0.554,
+                "avgScore": 0.554
+            },
+            "mirror": {
+                "totals": 2,
+                "totalScore": 1.194,
+                "avgScore": 0.597
+            },
+            "reflector": {
+                "totals": 2,
+                "totalScore": 1.1949999999999998,
+                "avgScore": 0.5974999999999999
+            },
+            "Indian red color": {
+                "totals": 1,
+                "totalScore": 0.807,
+                "avgScore": 0.807
+            },
+            "alizarine red color": {
+                "totals": 1,
+                "totalScore": 0.701,
+                "avgScore": 0.701
+            },
+            "ringlet": {
+                "totals": 1,
+                "totalScore": 0.686,
+                "avgScore": 0.686
+            },
+            "mount": {
+                "totals": 1,
+                "totalScore": 0.626,
+                "avgScore": 0.626
+            },
+            "bracteole": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "clothing": {
+                "totals": 1,
+                "totalScore": 0.597,
+                "avgScore": 0.597
+            },
+            "magnifier": {
+                "totals": 2,
+                "totalScore": 1.6720000000000002,
+                "avgScore": 0.8360000000000001
+            },
+            "scientific instrument": {
+                "totals": 2,
+                "totalScore": 1.6720000000000002,
+                "avgScore": 0.8360000000000001
+            },
+            "jeweler's loupe": {
+                "totals": 2,
+                "totalScore": 1.092,
+                "avgScore": 0.546
+            },
+            "light microscope": {
+                "totals": 2,
+                "totalScore": 1.092,
+                "avgScore": 0.546
+            },
+            "microscope": {
+                "totals": 2,
+                "totalScore": 1.092,
+                "avgScore": 0.546
+            },
+            "screw eye": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "screw": {
+                "totals": 1,
+                "totalScore": 0.502,
+                "avgScore": 0.502
+            },
+            "instrument": {
+                "totals": 2,
+                "totalScore": 1.4020000000000001,
+                "avgScore": 0.7010000000000001
+            },
+            "lavaliere (jewelled pendent)": {
+                "totals": 1,
+                "totalScore": 0.661,
+                "avgScore": 0.661
+            },
+            "bowline": {
+                "totals": 1,
+                "totalScore": 0.54,
+                "avgScore": 0.54
+            },
+            "knot": {
+                "totals": 2,
+                "totalScore": 1.11,
+                "avgScore": 0.555
+            },
+            "chain": {
+                "totals": 1,
+                "totalScore": 0.519,
+                "avgScore": 0.519
+            },
+            "photo with lines": {
+                "totals": 1,
+                "totalScore": 0.599,
+                "avgScore": 0.599
+            },
+            "electrical connector": {
+                "totals": 1,
+                "totalScore": 0.6,
+                "avgScore": 0.6
+            },
+            "gray color": {
+                "totals": 1,
+                "totalScore": 0.884,
+                "avgScore": 0.884
+            },
+            "finger plate": {
+                "totals": 3,
+                "totalScore": 1.7389999999999999,
+                "avgScore": 0.5796666666666667
+            },
+            "protective covering": {
+                "totals": 4,
+                "totalScore": 2.7199999999999998,
+                "avgScore": 0.6799999999999999
+            },
+            "pale yellow color": {
+                "totals": 1,
+                "totalScore": 0.842,
+                "avgScore": 0.842
+            },
+            "openwork": {
+                "totals": 1,
+                "totalScore": 0.528,
+                "avgScore": 0.528
+            },
+            "hone (whetstone)": {
+                "totals": 1,
+                "totalScore": 0.504,
+                "avgScore": 0.504
+            },
+            "medical dressing": {
+                "totals": 1,
+                "totalScore": 0.593,
+                "avgScore": 0.593
+            },
+            "sage green color": {
+                "totals": 1,
+                "totalScore": 0.785,
+                "avgScore": 0.785
+            },
+            "alabaster color": {
+                "totals": 1,
+                "totalScore": 0.737,
+                "avgScore": 0.737
+            },
+            "dado (dice)": {
+                "totals": 1,
+                "totalScore": 0.627,
+                "avgScore": 0.627
+            },
+            "faceplate": {
+                "totals": 1,
+                "totalScore": 0.524,
+                "avgScore": 0.524
+            },
+            "mohair fabric": {
+                "totals": 1,
+                "totalScore": 0.735,
+                "avgScore": 0.735
+            },
+            "fabric": {
+                "totals": 2,
+                "totalScore": 1.401,
+                "avgScore": 0.7005
+            },
+            "granny knot": {
+                "totals": 1,
+                "totalScore": 0.558,
+                "avgScore": 0.558
+            },
+            "plush (fabric for toys)": {
+                "totals": 1,
+                "totalScore": 0.524,
+                "avgScore": 0.524
+            },
+            "hank (coil of rope)": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "cleaning implement": {
+                "totals": 1,
+                "totalScore": 0.797,
+                "avgScore": 0.797
+            },
+            "indigo color": {
+                "totals": 1,
+                "totalScore": 0.85,
+                "avgScore": 0.85
+            },
+            "planchet": {
+                "totals": 1,
+                "totalScore": 0.88,
+                "avgScore": 0.88
+            },
+            "escutcheon shield": {
+                "totals": 2,
+                "totalScore": 1.392,
+                "avgScore": 0.696
+            },
+            "shield": {
+                "totals": 2,
+                "totalScore": 1.403,
+                "avgScore": 0.7015
+            },
+            "armor": {
+                "totals": 2,
+                "totalScore": 1.403,
+                "avgScore": 0.7015
+            },
+            "doorbell": {
+                "totals": 1,
+                "totalScore": 0.507,
+                "avgScore": 0.507
+            },
+            "electric switch": {
+                "totals": 1,
+                "totalScore": 0.508,
+                "avgScore": 0.508
+            },
+            "disk": {
+                "totals": 1,
+                "totalScore": 0.801,
+                "avgScore": 0.801
+            },
+            "beige color": {
+                "totals": 1,
+                "totalScore": 0.829,
+                "avgScore": 0.829
+            },
+            "olive green color": {
+                "totals": 1,
+                "totalScore": 0.634,
+                "avgScore": 0.634
+            },
+            "read-only memory": {
+                "totals": 1,
+                "totalScore": 0.869,
+                "avgScore": 0.869
+            },
+            "memory device": {
+                "totals": 1,
+                "totalScore": 0.93,
+                "avgScore": 0.93
+            },
+            "memory cache": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "octagon": {
+                "totals": 1,
+                "totalScore": 0.909,
+                "avgScore": 0.909
+            },
+            "polygon": {
+                "totals": 1,
+                "totalScore": 0.91,
+                "avgScore": 0.91
+            },
+            "ring": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "green color": {
+                "totals": 1,
+                "totalScore": 0.623,
+                "avgScore": 0.623
+            },
+            "pinata (plaything)": {
+                "totals": 1,
+                "totalScore": 0.506,
+                "avgScore": 0.506
+            },
+            "plate": {
+                "totals": 2,
+                "totalScore": 1.393,
+                "avgScore": 0.6965
+            },
+            "jade green color": {
+                "totals": 1,
+                "totalScore": 0.58,
+                "avgScore": 0.58
+            },
+            "catch (fastener)": {
+                "totals": 1,
+                "totalScore": 0.5,
+                "avgScore": 0.5
+            },
+            "musical instrument": {
+                "totals": 1,
+                "totalScore": 0.766,
+                "avgScore": 0.766
+            },
+            "reddish orange color": {
+                "totals": 1,
+                "totalScore": 0.923,
+                "avgScore": 0.923
+            }
+        },
+        "commonTags": [
+            {
+                "name": "fastener",
+                "avgScore": 0.6572222222222224
+            },
+            {
+                "name": "restraint (chains)",
+                "avgScore": 0.6746666666666666
+            },
+            {
+                "name": "circle",
+                "avgScore": 0.6687142857142857
+            },
+            {
+                "name": "figure",
+                "avgScore": 0.715
+            }
+        ]
+    }
+}

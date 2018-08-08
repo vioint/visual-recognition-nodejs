@@ -3,6 +3,7 @@ coverage
 .DS_Store
 .idea
 .env
+.vscode
 npm-debug.log
 uploads/*
 !uploads/README.md
