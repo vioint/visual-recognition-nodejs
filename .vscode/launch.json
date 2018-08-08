@@ -7,8 +7,8 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "Reframer",
-            "program": "${workspaceFolder}/components/reframer.js"
+            "name": "Reframer-test",
+            "program": "${workspaceFolder}/components/reframer-test.js"
         },
         {
             "type": "node",

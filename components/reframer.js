@@ -1,32 +1,10 @@
-var util = require('util');
-var path = require('path');
-var async = require('async');
-var basedir = path.join(__dirname, '../');
-
+const util = require('util');
+const path = require('path');
 const classifier = require('./watson-visual-classifier');
-const maps = require('./reframe-map');
 
 const Reset = "\x1b[0m";
 const FgGreen = "\x1b[32m";
 const FgRed = "\x1b[31m";
-
-// this maps to public/images/bundles/numbers/test/{index}.jpg
-var testImages = [
-    'three',
-    'nine',
-    'two',
-    'zero',
-    'negatives',
-    'one',
-    'five',
-    'negatives',
-    'seven',
-    'zero',
-    'negatives',
-    'three',
-    'five',
-    'eight'
-];
 
 // translate orginial classification using our own mapping
 function remapClassification(classes, mapping) {
@@ -48,7 +26,6 @@ function remapClassification(classes, mapping) {
 function classifyAndReframe(expectedClass, filename, mapping, callback) {
     classifier.classify(function (err, res) {
         if (err) {
-            test.error = err.message || err;
             callback(err);
             return;
         }
@@ -72,36 +49,6 @@ function classifyAndReframe(expectedClass, filename, mapping, callback) {
     }, filename, mapping.threshold);
 }
 
-function test() {
-    var testingPath = path.join(basedir, 'public/images/bundles/numbers/test');
-    var classify = function (expectedClass, filename, map, cb) {
-        return function (err, callback) {
-            classifyAndReframe(expectedClass, filename, map, cb);
-        }
-    };
-
-    var reframerResults = [];
-
-    async.forEach(testImages.entries(), function (item, next) {
-        classifyAndReframe(item[1], path.join(testingPath, item[0] + '.jpg'), maps.numbers, function (err, filename, result) {
-            if (err) {
-                test.error = err.message || err;
-                return next(err);
-            }
-
-            reframerResults[reframerResults.length] = result;
-
-            next();
-        });
-    }, function (err) {
-        if (err) {
-            console.error(err);
-        } else {
-            var correctRes = reframerResults.filter(r => r).length;
-            console.log(`Total success rate is ${correctRes}/${reframerResults.length} (${(correctRes / reframerResults.length * 100).toPrecision(4)}%)`);
-        }
-    });
-
+module.exports = {
+    classify: classifyAndReframe
 }
-
-test();
