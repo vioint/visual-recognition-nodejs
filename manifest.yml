@@ -7,8 +7,8 @@ applications:
 - name: visual-recognition-adverserial-reframing-demo
   path: .
   command: npm start
-  memory: 3000M
-  instances: 5
+  memory: 256M
+  instances: 1
   services:
   - visual-recognition-service
   env:

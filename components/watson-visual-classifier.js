@@ -11,7 +11,8 @@ var visualRecognition = new VisualRecognitionV3({
 var _classify = function(callback, filename, threshold = 0) {
     visualRecognition.classify({
         classifier_ids: ["default"],
-        images_file: fs.createReadStream(filename)
+        images_file: fs.createReadStream(filename),
+        'threshold': threshold
       }, function (err, res) {
         if (err) {
           console.log(err.message || err);

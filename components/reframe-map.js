@@ -16,8 +16,8 @@ let numbersMapping = {
             commonClasses: []
         },
     ],
-    matchStrength: 0.23,
-    threshold: 0.6
+    matchStrength: 0.33,
+    threshold: 0.8
 };
 
 function reloadMapping() {

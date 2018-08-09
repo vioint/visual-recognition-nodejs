@@ -2,10 +2,6 @@ const util = require('util');
 const path = require('path');
 const classifier = require('./watson-visual-classifier');
 
-const Reset = "\x1b[0m";
-const FgGreen = "\x1b[32m";
-const FgRed = "\x1b[31m";
-
 // translate orginial classification using our own mapping
 function remapClassification(classes, mapping) {
     var mappedClasses = [];
@@ -32,19 +28,16 @@ function classifyAndReframe(expectedClass, filename, mapping, callback) {
         var isCorrect = false;
         if (res.images[0].classifiers.length) {
             var mappedClasses = remapClassification(res.images[0].classifiers[0].classes, mapping);
-            isCorrect = mappedClasses.indexOf(expectedClass) !== -1;
+            if (mappedClasses.indexOf(expectedClass) !== -1) {
+                isCorrect = true;
+            } else if (mappedClasses.length === 0 && expectedClass === 'negatives') {
+                isCorrect = true;
+            }
 
-            var resultMessage = mappedClasses.length ?
-                (isCorrect ? FgGreen : FgRed) +
-                `'${path.basename(filename)}' is probably a ` + mappedClasses.join(' or a ') :
-                `No classification mapping was found for image '${path.basename(filename)}'`;
-            resultMessage += `, the expected classification is ${expectedClass}` + Reset;
-
-            console.log(resultMessage);
         } else {
             console.log(`Sorry, no classifications returned for '${path.basename(filename)}' :(`);
         }
-        callback(null, filename, isCorrect);
+        callback(null, filename, isCorrect, mappedClasses);
 
     }, filename, mapping.threshold);
 }
